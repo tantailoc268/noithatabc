@@ -1,0 +1,12 @@
+{
+  "section_title": "GIỚI THIỆU CÔNG TY",
+  "title": "TƯ VẤN DOANH NGHIỆP",
+  "text": "Chúng tôi giúp doanh nghiệp phát triển bền vững thông qua các giải pháp công nghệ và chiến lược sáng tạo.",
+  "features": [
+    { "title": "DOANH NGHIỆP", "text": "Mẫu nội dung minh họa, bạn có thể thay đổi tùy ý." },
+    { "title": "TƯ VẤN", "text": "Mẫu nội dung minh họa, bạn có thể thay đổi tùy ý." }
+  ],
+  "read_more": "XEM THÊM",
+  "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_caption": "Hình ảnh từ Freepik"
+}

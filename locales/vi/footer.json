@@ -1,0 +1,12 @@
+{
+  "logo": "Logo",
+  "description": "Suspendisse hendrerit tellus laoreet luctus pharetra. Aliquam porttitor vitae orci nec ultricies.",
+  "copyright": "© 2014 BS3 UI Kit, All rights reserved.",
+  "menu": ["DU LỊCH", "THIÊN NHIÊN", "KHÁM PHÁ", "KHOA HỌC", "LỜI KHUYÊN"],
+  "about": ["Về chúng tôi", "Liên hệ", "Điều khoản", "Chính sách riêng tư"],
+  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
+  "newsletter_title": "BẢN TIN",
+  "newsletter_text": "Một chú robot mặc áo lông không làm chim cánh cụt thật sợ hãi",
+  "newsletter_placeholder": "Tìm kiếm...",
+  "newsletter_button": "Đăng ký"
+}

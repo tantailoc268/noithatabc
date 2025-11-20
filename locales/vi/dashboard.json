@@ -1,0 +1,107 @@
+{
+  "dashboard": {
+    "welcome": "Bảng Điều Khiển",
+    "subtitle": "Quản lý tài khoản và dịch vụ của bạn",
+    "userInfo": {
+      "title": "Thông Tin Người Dùng",
+      "userId": "ID Người Dùng",
+      "username": "Tên Đăng Nhập",
+      "language": "Ngôn Ngữ",
+      "notSet": "Chưa đặt"
+    },
+    "features": {
+      "title": "Tính Năng",
+      "items": [
+        {
+          "icon": "🚀",
+          "title": "Nhanh & Bảo Mật",
+          "description": "Trải nghiệm hiệu suất cao với bảo mật cấp ngân hàng"
+        },
+        {
+          "icon": "💳",
+          "title": "Quản Lý Thanh Toán",
+          "description": "Quản lý tất cả giao dịch thanh toán tại một nơi"
+        },
+        {
+          "icon": "🌍",
+          "title": "Đa Ngôn Ngữ", 
+          "description": "Chuyển đổi ngôn ngữ một cách liền mạch"
+        },
+        {
+          "icon": "📊",
+          "title": "Phân Tích",
+          "description": "Nhận thông tin chi tiết với báo cáo và phân tích"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Thống Kê",
+      "items": [
+        {
+          "value": "12",
+          "label": "Tổng Dịch Vụ"
+        },
+        {
+          "value": "156", 
+          "label": "Giao Dịch"
+        },
+        {
+          "value": "₫8.250.000",
+          "label": "Tổng Doanh Thu"
+        },
+        {
+          "value": "98%",
+          "label": "Tỷ Lệ Thành Công"
+        }
+      ]
+    },
+    "recentActivity": {
+      "title": "Hoạt Động Gần Đây",
+      "items": [
+        {
+          "action": "Đăng nhập",
+          "time": "2 phút trước",
+          "status": "success"
+        },
+        {
+          "action": "Cập nhật hồ sơ",
+          "time": "1 giờ trước", 
+          "status": "success"
+        },
+        {
+          "action": "Xử lý thanh toán",
+          "time": "3 giờ trước",
+          "status": "pending"
+        }
+      ]
+    },
+    "quickActions": {
+      "title": "Thao Tác Nhanh",
+      "items": [
+        {
+          "name": "Thêm Dịch Vụ",
+          "icon": "➕"
+        },
+        {
+          "name": "Xem Báo Cáo",
+          "icon": "📈"
+        },
+        {
+          "name": "Cài Đặt",
+          "icon": "⚙️"
+        },
+        {
+          "name": "Trợ Giúp & Hỗ Trợ",
+          "icon": "❓"
+        }
+      ]
+    },
+    "messages": {
+      "loading": "Đang tải bảng điều khiển...",
+      "error": "Lỗi khi tải bảng điều khiển",
+      "retry": "Thử lại",
+      "accessGranted": "Truy cập thành công",
+      "welcomeBack": "Chào mừng trở lại!"
+    }
+  }
+}

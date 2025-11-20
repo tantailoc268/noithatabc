@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "slides": [
+      {
+        "title": "Chào mừng đến với Goline",
+        "text": "Giải pháp kỹ thuật số toàn diện giúp doanh nghiệp của bạn phát triển bền vững trong kỷ nguyên hiện đại.",
+        "buttons": ["Tìm hiểu thêm", "Liên hệ ngay"],
+        "image": "https://picsum.photos/id/1018/1600/900"
+      },
+      {
+        "title": "Phát triển nhanh chóng và hiệu quả",
+        "text": "Chúng tôi cung cấp dịch vụ thiết kế, lập trình và chuyển đổi số chuyên nghiệp cho doanh nghiệp toàn cầu.",
+        "buttons": ["Dịch vụ của chúng tôi", "Gặp đội ngũ"],
+        "image": "https://picsum.photos/id/1025/1600/900"
+      },
+      {
+        "title": "Cùng đổi mới",
+        "text": "Chúng tôi tin rằng công nghệ chỉ có giá trị thực khi giúp con người tạo nên sự thay đổi ý nghĩa mỗi ngày.",
+        "buttons": ["Liên hệ ngay", "Xem dự án"],
+        "image": "https://picsum.photos/id/1005/1600/900"
+      }
+    ]
+  }
+}

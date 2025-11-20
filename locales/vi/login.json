@@ -1,0 +1,36 @@
+{
+  "login": {
+    "welcomeBack": "Chào mừng trở lại!",
+    "signInPrompt": "Bạn có thể đăng nhập bằng tài khoản hiện có.",
+    "phoneNumber": "Số điện thoại",
+    "phonePlaceholder": "Nhập số điện thoại của bạn", 
+    "password": "Mật khẩu",
+    "passwordPlaceholder": "Nhập mật khẩu của bạn",
+    "rememberMe": "Ghi nhớ đăng nhập",
+    "forgotPassword": "Quên mật khẩu?",
+    "signIn": "Đăng Nhập",
+    "loggingIn": "Đang đăng nhập...",
+    "noAccount": "Mới tham gia?",
+    "createAccount": "Tạo Tài Khoản",
+    "requiredFields": "Vui lòng điền đầy đủ thông tin",
+    "invalidCredentials": "Số điện thoại hoặc mật khẩu không đúng",
+    "networkError": "Lỗi mạng. Vui lòng thử lại.",
+    "loginFailed": "Đăng nhập thất bại",
+     
+    "showPassword": "Hiện mật khẩu",
+    "hidePassword": "Ẩn mật khẩu", 
+    "phoneFormatError": "Vui lòng nhập số điện thoại hợp lệ",
+    "loginSuccess": "Đăng nhập thành công!",
+    "csrfError": "Mã bảo mật đã hết hạn. Vui lòng tải lại trang.",
+    "sessionExpired": "Phiên đăng nhập đã hết hạn. Vui lòng đăng nhập lại.",
+    "serverError": "Lỗi máy chủ. Vui lòng thử lại sau.",
+    "loadingTranslations": "Đang tải bản dịch...",
+    "redirecting": "Đang chuyển hướng...",
+    "loginToContinue": "Vui lòng đăng nhập để tiếp tục",
+    "invalidPhoneFormat": "Định dạng số điện thoại không hợp lệ",
+    "passwordTooShort": "Mật khẩu phải có ít nhất 6 ký tự",
+    "accountLocked": "Tài khoản tạm thời bị khóa. Thử lại sau.",
+    "tooManyAttempts": "Quá nhiều lần thử đăng nhập. Vui lòng chờ.",
+    "maintenanceMode": "Hệ thống đang bảo trì. Vui lòng thử lại sau."
+  }
+}

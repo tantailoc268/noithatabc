@@ -1,0 +1,10 @@
+{
+  "section_title": "ĐỘI NGŨ CỦA CHÚNG TÔI",
+  "footer": "Hình ảnh từ Freepik",
+  "members": [
+    { "name": "Alex Smith", "role": "TRƯỞNG NHÓM SÁNG TẠO", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "May Brown", "role": "QUẢN LÝ BÁN HÀNG", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.", "image": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "Ann Richmond", "role": "LẬP TRÌNH VIÊN WEB", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.", "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "Roxie Swanson", "role": "THIẾT KẾ WEB", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.", "image": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" }
+  ]
+}

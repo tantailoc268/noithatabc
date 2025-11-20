@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "work": "Công việc",
+    "service": "Dịch vụ", 
+    "team": "Đội ngũ",
+    "contact": "Liên hệ"
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "logout": "Đăng xuất", 
+    "welcome": "Chào mừng trở lại",
+    "create_account": "Tạo tài khoản mới",
+    "forgot_password": "Quên mật khẩu?",
+    "remember_me": "Ghi nhớ đăng nhập",
+    "no_account": "Chưa có tài khoản?",
+    "has_account": "Đã có tài khoản?"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "prev": "Trước",
+    "next": "Tiếp",
+    "close": "Đóng", 
+    "see_all": "Xem tất cả",
+    "view_more": "Xem thêm",
+    "change_language": "Thay đổi ngôn ngữ",
+    "language": "Ngôn ngữ",
+    "current_language": "Ngôn ngữ hiện tại",
+    "changing_language": "Đang thay đổi ngôn ngữ..."
+  },
+  "hotline": {
+    "text": "Gọi ngay:",
+    "number": "03368.03368"
+  }
+}

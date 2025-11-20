@@ -1,0 +1,60 @@
+{
+    "selectlanguage": "Chọn ngôn ngữ", 
+    "language": [
+    {
+        "sym": "en",
+        "name": "Tiếng Anh",
+        "icon": "https://flagcdn.com/w320/gb.png"
+    },
+    {
+        "sym": "vi", 
+        "name": "Tiếng Việt",
+        "icon": "https://flagcdn.com/w320/vn.png"
+    },
+    {
+        "sym": "ja",
+        "name": "Tiếng Nhật",
+        "icon": "https://flagcdn.com/w320/jp.png"
+    },
+    {
+        "sym": "zh-Hans",
+        "name": "Tiếng Trung (Giản thể)",
+        "icon": "https://flagcdn.com/w320/cn.png"
+    },
+    {
+        "sym": "zh-Hant",
+        "name": "Tiếng Trung (Phồn thể)",
+        "icon": "https://flagcdn.com/w320/cn.png"
+    },
+    {
+        "sym": "ko",
+        "name": "Tiếng Hàn",
+        "icon": "https://flagcdn.com/w320/kr.png"
+    },
+    {
+        "sym": "fr",
+        "name": "Tiếng Pháp",
+        "icon": "https://flagcdn.com/w320/fr.png"
+    },
+    {
+        "sym": "de",
+        "name": "Tiếng Đức",
+        "icon": "https://flagcdn.com/w320/de.png"
+    },
+    {
+        "sym": "es",
+        "name": "Tiếng Tây Ban Nha",
+        "icon": "https://flagcdn.com/w320/es.png"
+    },
+    {
+        "sym": "pt",
+        "name": "Tiếng Bồ Đào Nha",
+        "icon": "https://flagcdn.com/w320/pt.png"
+    },
+    {
+        "sym": "ru",
+        "name": "Tiếng Nga",
+        "icon": "https://flagcdn.com/w320/ru.png"
+    }
+]
+}

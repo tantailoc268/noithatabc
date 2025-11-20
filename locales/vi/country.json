@@ -1,0 +1,79 @@
+
+{
+  "title": "Quản Lý Quốc Gia",
+  "subtitle": "Quản lý thông tin và cài đặt quốc gia",
+  "loading": "Đang tải danh sách quốc gia...",
+  "error": "Lỗi",
+  "retry": "Thử lại",
+  "totalCountries": "Tổng số quốc gia",
+  "confirmed": "Đã xác nhận",
+  "noCountries": "Không tìm thấy quốc gia nào",
+  "addFirstCountry": "Thêm quốc gia đầu tiên để bắt đầu",
+  
+  "phoneCode": "Mã điện thoại",
+  "currency": "Tiền tệ",
+  "nationality": "Quốc tịch",
+  "nameType": "Loại tên",
+  "adminLevels": "Cấp hành chính",
+  
+  "edit": "Chỉnh sửa",
+  "viewDetails": "Xem chi tiết",
+  "delete": "Xóa",
+  "addCountry": "Thêm quốc gia",
+  
+  "status": {
+    "confirm": "Đã xác nhận",
+    "pending": "Đang chờ",
+    "rejected": "Từ chối"
+  },
+  
+  "filters": {
+    "all": "Tất cả",
+    "confirmed": "Đã xác nhận",
+    "pending": "Đang chờ xử lý",
+    "search": "Tìm kiếm quốc gia..."
+  },
+  
+  "details": {
+    "isoCode": "Mã ISO",
+    "isoAlpha2": "Mã Alpha-2",
+    "phoneCode": "Mã điện thoại",
+    "currencyCode": "Mã tiền tệ",
+    "names": "Tên quốc gia",
+    "nationalityNames": "Tên quốc tịch",
+    "postalCode": "Mã bưu điện",
+    "locationPostalCode": "Mã bưu điện địa điểm",
+    "createdAt": "Ngày tạo",
+    "updatedAt": "Ngày cập nhật"
+  },
+  
+  "levelTypes": {
+    "level1": "Cấp 1",
+    "level2": "Cấp 2", 
+    "level3": "Cấp 3",
+    "level4": "Cấp 4",
+    "province": "Tỉnh/Thành Phố",
+    "district": "Quận/Huyện",
+    "ward": "Phường/Xã",
+    "village": "Ấp/Tổ"
+  },
+  
+  "messages": {
+    "loadSuccess": "Tải danh sách quốc gia thành công",
+    "loadError": "Lỗi khi tải danh sách quốc gia",
+    "deleteSuccess": "Xóa quốc gia thành công",
+    "deleteError": "Lỗi khi xóa quốc gia",
+    "addSuccess": "Thêm quốc gia thành công",
+    "addError": "Lỗi khi thêm quốc gia",
+    "updateSuccess": "Cập nhật quốc gia thành công",
+    "updateError": "Lỗi khi cập nhật quốc gia"
+  },
+  
+  "validation": {
+    "nameRequired": "Tên quốc gia là bắt buộc",
+    "isoCodeRequired": "Mã ISO là bắt buộc",
+    "isoAlpha2Required": "Mã Alpha-2 là bắt buộc",
+    "phoneCodeRequired": "Mã điện thoại là bắt buộc",
+    "currencyCodeRequired": "Mã tiền tệ là bắt buộc"
+  }
+}
