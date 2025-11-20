@@ -1,0 +1,107 @@
+{
+  "dashboard": {
+    "welcome": "Dashboard",
+    "subtitle": "Manage your account and services",
+    "userInfo": {
+      "title": "User Information",
+      "userId": "User ID",
+      "username": "Username", 
+      "language": "Language",
+      "notSet": "Not set"
+    },
+    "features": {
+      "title": "Features",
+      "items": [
+        {
+          "icon": "🚀",
+          "title": "Fast & Secure",
+          "description": "Experience high-speed performance with bank-level security"
+        },
+        {
+          "icon": "💳",
+          "title": "Payment Management", 
+          "description": "Manage all your payments and transactions in one place"
+        },
+        {
+          "icon": "🌍",
+          "title": "Multi-language",
+          "description": "Switch between languages seamlessly"
+        },
+        {
+          "icon": "📊",
+          "title": "Analytics",
+          "description": "Get insights with detailed reports and analytics"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Statistics",
+      "items": [
+        {
+          "value": "12",
+          "label": "Total Services"
+        },
+        {
+          "value": "156",
+          "label": "Transactions"
+        },
+        {
+          "value": "₫8.250.000",
+          "label": "Total Revenue"
+        },
+        {
+          "value": "98%",
+          "label": "Success Rate"
+        }
+      ]
+    },
+    "recentActivity": {
+      "title": "Recent Activity",
+      "items": [
+        {
+          "action": "Login",
+          "time": "2 minutes ago",
+          "status": "success"
+        },
+        {
+          "action": "Profile Update", 
+          "time": "1 hour ago",
+          "status": "success"
+        },
+        {
+          "action": "Payment Processing",
+          "time": "3 hours ago", 
+          "status": "pending"
+        }
+      ]
+    },
+    "quickActions": {
+      "title": "Quick Actions",
+      "items": [
+        {
+          "name": "Add Service",
+          "icon": "➕"
+        },
+        {
+          "name": "View Reports",
+          "icon": "📈"
+        },
+        {
+          "name": "Settings",
+          "icon": "⚙️"
+        },
+        {
+          "name": "Help & Support",
+          "icon": "❓"
+        }
+      ]
+    },
+    "messages": {
+      "loading": "Loading dashboard...",
+      "error": "Error loading dashboard",
+      "retry": "Retry",
+      "accessGranted": "Access granted successfully",
+      "welcomeBack": "Welcome back!"
+    }
+  }
+}

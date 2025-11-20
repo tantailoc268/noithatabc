@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "slides": [
+      {
+        "title": "Welcome to Goline",
+        "text": "A complete digital solution to help your business grow sustainably in the modern era.",
+        "buttons": ["Learn More", "Contact Us"],
+        "image": "https://picsum.photos/id/1018/1600/900"
+      },
+      {
+        "title": "Develop Fast and Efficiently",
+        "text": "We provide professional design, programming, and digital transformation services for global businesses.",
+        "buttons": ["Our Services", "Meet the Team"],
+        "image": "https://picsum.photos/id/1025/1600/900"
+      },
+      {
+        "title": "Innovate Together",
+        "text": "We believe technology has true value when it helps people create meaningful change every day.",
+        "buttons": ["Get in Touch", "View Projects"],
+        "image": "https://picsum.photos/id/1005/1600/900"
+      }
+    ]
+  }
+}

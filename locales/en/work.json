@@ -1,0 +1,36 @@
+{
+  "section_title": "Our Work",
+  "filters": ["All Projects", "Interior", "Architecture", "Branding"],
+  "projects": [
+    {
+      "title": "Wanda Art Gallery",
+      "category": "Interior Design",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Modern Stairs",
+      "category": "Architecture",
+      "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Minimal Office",
+      "category": "Interior Design",
+      "image": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Brand Identity",
+      "category": "Branding",
+      "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Sculptural Building",
+      "category": "Architecture",
+      "image": "https://images.unsplash.com/photo-1519996529931-28324d953f9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Luxury Hotel",
+      "category": "Interior Design",
+      "image": "https://images.unsplash.com/photo-1600210492493-0946911123ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}

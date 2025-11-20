@@ -1,0 +1,79 @@
+
+{
+  "title": "Countries Management",
+  "subtitle": "Manage country information and settings",
+  "loading": "Loading countries...",
+  "error": "Error",
+  "retry": "Retry",
+  "totalCountries": "Total Countries",
+  "confirmed": "Confirmed",
+  "noCountries": "No countries found",
+  "addFirstCountry": "Add your first country to get started",
+  
+  "phoneCode": "Phone Code",
+  "currency": "Currency", 
+  "nationality": "Nationality",
+  "nameType": "Name Type",
+  "adminLevels": "Administrative Levels",
+  
+  "edit": "Edit",
+  "viewDetails": "View Details",
+  "delete": "Delete",
+  "addCountry": "Add Country",
+  
+  "status": {
+    "confirm": "Confirmed",
+    "pending": "Pending",
+    "rejected": "Rejected"
+  },
+  
+  "filters": {
+    "all": "All",
+    "confirmed": "Confirmed", 
+    "pending": "Pending",
+    "search": "Search countries..."
+  },
+  
+  "details": {
+    "isoCode": "ISO Code",
+    "isoAlpha2": "Alpha-2 Code",
+    "phoneCode": "Phone Code",
+    "currencyCode": "Currency Code",
+    "names": "Country Names",
+    "nationalityNames": "Nationality Names",
+    "postalCode": "Postal Code",
+    "locationPostalCode": "Location Postal Code",
+    "createdAt": "Created At",
+    "updatedAt": "Updated At"
+  },
+  
+  "levelTypes": {
+    "level1": "Level 1",
+    "level2": "Level 2",
+    "level3": "Level 3", 
+    "level4": "Level 4",
+    "province": "Province/City",
+    "district": "District",
+    "ward": "Ward/Commune",
+    "village": "Village/Hamlet"
+  },
+  
+  "messages": {
+    "loadSuccess": "Countries loaded successfully",
+    "loadError": "Error loading countries",
+    "deleteSuccess": "Country deleted successfully",
+    "deleteError": "Error deleting country",
+    "addSuccess": "Country added successfully",
+    "addError": "Error adding country",
+    "updateSuccess": "Country updated successfully",
+    "updateError": "Error updating country"
+  },
+  
+  "validation": {
+    "nameRequired": "Country name is required",
+    "isoCodeRequired": "ISO code is required",
+    "isoAlpha2Required": "Alpha-2 code is required",
+    "phoneCodeRequired": "Phone code is required", 
+    "currencyCodeRequired": "Currency code is required"
+  }
+}

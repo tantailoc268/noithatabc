@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "home": "Home",
+    "about": "About", 
+    "work": "Work",
+    "service": "Service",
+    "team": "Team",
+    "contact": "Contact"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register", 
+    "logout": "Logout",
+    "welcome": "Welcome back",
+    "create_account": "Create new account",
+    "forgot_password": "Forgot password?",
+    "remember_me": "Remember me", 
+    "no_account": "Don't have an account?",
+    "has_account": "Already have an account?"
+  },
+  "common": {
+    "loading": "Loading...",
+    "prev": "Previous",
+    "next": "Next",
+    "close": "Close", 
+    "see_all": "See All",
+    "view_more": "View More",
+    "change_language": "Change language",
+    "language": "Language",
+    "current_language": "Current language",
+    "changing_language": "Changing language..."
+  },
+  "hotline": {
+    "text": "Hotline:",
+    "number": "03368.03368"
+  }
+}

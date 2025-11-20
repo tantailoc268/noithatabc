@@ -1,0 +1,60 @@
+{
+    "selectlanguage": "Select language", 
+    "language": [
+    {
+        "sym": "en",
+        "name": "English",
+        "icon": "https://flagcdn.com/w320/gb.png"
+    },
+    {
+        "sym": "vi", 
+        "name": "Vietnamese",
+        "icon": "https://flagcdn.com/w320/vn.png"
+    },
+    {
+        "sym": "ja",
+        "name": "Japanese",
+        "icon": "https://flagcdn.com/w320/jp.png"
+    },
+    {
+        "sym": "zh-Hans",
+        "name": "Chinese (Simplified)",
+        "icon": "https://flagcdn.com/w320/cn.png"
+    },
+    {
+        "sym": "zh-Hant",
+        "name": "Chinese (Traditional)",
+        "icon": "https://flagcdn.com/w320/cn.png"
+    },
+    {
+        "sym": "ko",
+        "name": "Korean",
+        "icon": "https://flagcdn.com/w320/kr.png"
+    },
+    {
+        "sym": "fr",
+        "name": "French",
+        "icon": "https://flagcdn.com/w320/fr.png"
+    },
+    {
+        "sym": "de",
+        "name": "German",
+        "icon": "https://flagcdn.com/w320/de.png"
+    },
+    {
+        "sym": "es",
+        "name": "Spanish",
+        "icon": "https://flagcdn.com/w320/es.png"
+    },
+    {
+        "sym": "pt",
+        "name": "Portuguese",
+        "icon": "https://flagcdn.com/w320/pt.png"
+    },
+    {
+        "sym": "ru",
+        "name": "Russian",
+        "icon": "https://flagcdn.com/w320/ru.png"
+    }
+]
+}

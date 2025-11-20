@@ -1,0 +1,12 @@
+{
+  "logo": "Logo",
+  "description": "Suspendisse hendrerit tellus laoreet luctus pharetra. Aliquam porttitor vitae orci nec ultricies.",
+  "copyright": "© 2014 BS3 UI Kit, All rights reserved.",
+  "menu": ["TRAVEL", "NATURE", "EXPLORES", "SCIENCE", "ADVICE"],
+  "about": ["About Us", "Contacts", "Terms & Condition", "Privacy Policy"],
+  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
+  "newsletter_title": "NEWSLETTER",
+  "newsletter_text": "A rover wearing a fuzzy suit doesn't alarm the real penguins",
+  "newsletter_placeholder": "Search for...",
+  "newsletter_button": "Envelope"
+}
