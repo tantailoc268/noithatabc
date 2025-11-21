@@ -2,17 +2,21 @@
   "section_title": "LIÊN HỆ",
   "info": {
     "office_title": "VĂN PHÒNG CHÍNH",
-    "office_content": "Soho 94 Broadway St\\nNew York, NY 1001",
+    "office_content": "468 Nguyễn Văn Linh, Phường Tân Mỹ, Tp.HCM",
     "phone_title": "SỐ ĐIỆN THOẠI",
-    "phone_content": "234-9876-5400\\n888-0123-4567 (Miễn phí)",
+    "phone_content": "(+84) 03368.03368)",
     "fax_title": "FAX",
-    "fax_content": "1-234-567-8900",
+    "fax_content": "(+84) 03368.03368)",
     "email_title": "EMAIL",
-    "email_content": "hello@theme.com"
+    "email_content": "goodjobconnect@gmail.com"
   },
   "form": {
     "title": "Thông tin liên hệ",
-    "labels": { "email": "Email", "name": "Họ tên", "message": "Nội dung" },
+    "labels": {
+      "email": "Email",
+      "name": "Họ tên",
+      "message": "Nội dung"
+    },
     "placeholders": {
       "email": "Nhập địa chỉ email hợp lệ",
       "name": "Nhập họ tên của bạn",

@@ -1,12 +1,18 @@
 {
-  "section_title": "GIỚI THIỆU CÔNG TY",
-  "title": "TƯ VẤN DOANH NGHIỆP",
-  "text": "Chúng tôi giúp doanh nghiệp phát triển bền vững thông qua các giải pháp công nghệ và chiến lược sáng tạo.",
+  "section_title": "VỀ CÔNG TY",
+  "title": "THIẾT KẾ NỘI THẤT & NGOẠI THẤT",
+  "text": "Tại Công Ty TNHH Trang Trí Nội Thất ABC, chúng tôi chuyên cung cấp dịch vụ thiết kế và thi công nội thất, ngoại thất chuyên nghiệp. Kể từ năm 2016, chúng tôi luôn tận tâm biến mọi không gian thành những môi trường thẩm mỹ, tiện nghi, đảm bảo sự hài lòng tối đa cho khách hàng trong từng dự án.",
   "features": [
-    { "title": "DOANH NGHIỆP", "text": "Mẫu nội dung minh họa, bạn có thể thay đổi tùy ý." },
-    { "title": "TƯ VẤN", "text": "Mẫu nội dung minh họa, bạn có thể thay đổi tùy ý." }
+    {
+      "title": "THIẾT KẾ",
+      "text": "Đội ngũ của chúng tôi tạo ra những thiết kế sáng tạo, tùy chỉnh, phản ánh phong cách và yêu cầu riêng biệt của từng khách hàng."
+    },
+    {
+      "title": "THI CÔNG",
+      "text": "Chúng tôi quản lý dự án từ ý tưởng đến hoàn thiện, đảm bảo thi công chất lượng, đúng tiến độ và chú trọng đến từng chi tiết."
+    }
   ],
   "read_more": "XEM THÊM",
   "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-  "image_caption": "Hình ảnh từ Freepik"
+  "image_caption": "Hình ảnh bởi Freepik"
 }

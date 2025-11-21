@@ -1,12 +1,41 @@
 {
-  "section_title": "DỰ ÁN CỦA CHÚNG TÔI",
-  "filters": ["Tất cả", "Nội thất", "Kiến trúc", "Thương hiệu"],
+  "section_title": "Dự Án Của Chúng Tôi",
+  "filters": [
+    "Tất Cả Dự Án",
+    "Nội Thất",
+    "Kiến Trúc",
+    "Thương Hiệu"
+  ],
   "projects": [
-    { "title": "Phòng trưng bày nghệ thuật Wanda", "category": "Thiết kế nội thất", "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" },
-    { "title": "Cầu thang hiện đại", "category": "Kiến trúc", "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" },
-    { "title": "Văn phòng tối giản", "category": "Thiết kế nội thất", "image": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" },
-    { "title": "Nhận diện thương hiệu", "category": "Thương hiệu", "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" },
-    { "title": "Tòa nhà điêu khắc", "category": "Kiến trúc", "image": "https://images.unsplash.com/photo-1519996529931-28324d953f9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" },
-    { "title": "Khách sạn sang trọng", "category": "Thiết kế nội thất", "image": "https://images.unsplash.com/photo-1600210492493-0946911123ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" }
+    {
+      "title": "Phòng Trưng Bày Nghệ Thuật Wanda",
+      "category": "Thiết Kế Nội Thất",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Cầu Thang Hiện Đại",
+      "category": "Kiến Trúc",
+      "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Văn Phòng Tối Giản",
+      "category": "Thiết Kế Nội Thất",
+      "image": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Nhận Diện Thương Hiệu",
+      "category": "Thương Hiệu",
+      "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Tòa Nhà Điêu Khắc",
+      "category": "Kiến Trúc",
+      "image": "https://images.unsplash.com/photo-1519996529931-28324d953f9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Khách Sạn Sang Trọng",
+      "category": "Thiết Kế Nội Thất",
+      "image": "https://images.unsplash.com/photo-1600210492493-0946911123ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    }
   ]
 }
