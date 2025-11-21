@@ -1,0 +1,22 @@
+{
+  "dashboard": {
+    "welcome": "Tableau de bord",
+    "subtitle": "Gestion de votre compte et services",
+    "userInfo": {
+      "title": "Informations utilisateur",
+      "userId": "ID utilisateur",
+      "username": "Nom d’utilisateur",
+      "language": "Langue",
+      "notSet": "Non défini"
+    },
+    "features": {
+      "title": "Fonctionnalités principales",
+      "items": [
+        { "title": "Rapide & sécurisé", "description": "Performance ultra-rapide et sécurité bancaire" },
+        { "title": "Gestion des paiements", "description": "Tous vos paiements et transactions en un seul endroit" },
+        { "title": "Multilingue", "description": "Changement de langue fluide" },
+        { "title": "Analyse de données", "description": "Rapports détaillés et insights approfondis" }
+      ]
+    }
+  }
+}

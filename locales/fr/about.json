@@ -1,0 +1,12 @@
+{
+  "section_title": "À PROPOS",
+  "title": "CONSEIL AUX ENTREPRISES",
+  "text": "Chez Goline, nous proposons des solutions digitales complètes et des services de conseil experts pour aider les entreprises à relever les défis, saisir les opportunités et réussir durablement sur un marché en constante évolution.",
+  "features": [
+    { "title": "BUSINESS", "text": "Texte d’exemple. Cliquez pour sélectionner le bloc de texte. Cliquez à nouveau ou double-cliquez pour commencer la modification." },
+    { "title": "CONSEIL", "text": "Texte d’exemple. Cliquez pour sélectionner le bloc de texte. Cliquez à nouveau ou double-cliquez pour commencer la modification." }
+  ],
+  "read_more": "En savoir plus",
+  "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_caption": "Image de Freepik"
+}

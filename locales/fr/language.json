@@ -1,0 +1,16 @@
+{
+  "selectlanguage": "Choisir la langue",
+  "language": [
+    { "sym": "en", "name": "Anglais", "icon": "https://flagcdn.com/w320/gb.png" },
+    { "sym": "vi", "name": "Vietnamien", "icon": "https://flagcdn.com/w320/vn.png" },
+    { "sym": "ja", "name": "Japonais", "icon": "https://flagcdn.com/w320/jp.png" },
+    { "sym": "zh-Hans", "name": "Chinois (simplifié)", "icon": "https://flagcdn.com/w320/cn.png" },
+    { "sym": "zh-Hant", "name": "Chinois (traditionnel)", "icon": "https://flagcdn.com/w320/cn.png" },
+    { "sym": "ko", "name": "Coréen", "icon": "https://flagcdn.com/w320/kr.png" },
+    { "sym": "fr", "name": "Français", "icon": "https://flagcdn.com/w320/fr.png" },
+    { "sym": "de", "name": "Allemand", "icon": "https://flagcdn.com/w320/de.png" },
+    { "sym": "es", "name": "Espagnol", "icon": "https://flagcdn.com/w320/es.png" },
+    { "sym": "pt", "name": "Portugais", "icon": "https://flagcdn.com/w320/pt.png" },
+    { "sym": "ru", "name": "Russe", "icon": "https://flagcdn.com/w320/ru.png" }
+  ]
+}

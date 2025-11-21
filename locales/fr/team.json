@@ -1,0 +1,10 @@
+{
+  "section_title": "Notre équipe",
+  "footer": "Images de Freepik",
+  "members": [
+    { "name": "Alex Smith", "role": "Directeur créatif", "description": "Transformer la vision de nos clients en réalité époustouflante est ma plus grande passion.", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "May Brown", "role": "Responsable commerciale", "description": "La satisfaction client est notre priorité absolue.", "image": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "Anne Richmond", "role": "Développeuse web senior", "description": "Nous créons des systèmes rapides, stables et sécurisés avec les dernières technologies.", "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "Roxy Swanson", "role": "Designer web senior", "description": "Nous trouvons l’équilibre parfait entre beauté et ergonomie.", "image": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" }
+  ]
+}

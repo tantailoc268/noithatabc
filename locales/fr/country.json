@@ -1,0 +1,31 @@
+{
+  "title": "Gestion des pays",
+  "subtitle": "Gestion des informations et paramètres des pays",
+  "loading": "Chargement des pays...",
+  "error": "Erreur",
+  "retry": "Réessayer",
+  "totalCountries": "Nombre total de pays",
+  "confirmed": "Confirmé",
+  "noCountries": "Aucun pays trouvé",
+  "addFirstCountry": "Ajoutez votre premier pays pour commencer",
+  "phoneCode": "Indicatif téléphonique",
+  "currency": "Devise",
+  "nationality": "Nationalité",
+  "nameType": "Type de nom",
+  "adminLevels": "Niveaux administratifs",
+  "edit": "Modifier",
+  "viewDetails": "Voir les détails",
+  "delete": "Supprimer",
+  "addCountry": "Ajouter un pays",
+  "status": {
+    "confirm": "Confirmé",
+    "pending": "En attente",
+    "rejected": "Refusé"
+  },
+  "filters": {
+    "all": "Tous",
+    "confirmed": "Confirmés",
+    "pending": "En attente",
+    "search": "Rechercher un pays..."
+  }
+}
