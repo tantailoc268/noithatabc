@@ -1,0 +1,16 @@
+{
+  "section_title": "서비스",
+  "header_title": "다음 특별한<br/>목적지가 기다립니다",
+  "see_all": "모든 목적지 보기",
+  "destinations": [
+    { "name": "네팔", "count": "2개 목적지", "image": "https://images.unsplash.com/photo-1544735716-2f9a7b6a5b7a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "방글라데시", "count": "2개 목적지", "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "몰디브", "count": "8개 목적지", "image": "https://images.unsplash.com/photo-1596010425751-8c67bf7a8d7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "태국", "count": "8개 목적지", "image": "https://images.unsplash.com/photo-1528181304800-259b08848526?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "일본", "count": "6개 목적지", "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "베트남", "count": "5개 목적지", "image": "https://images.unsplash.com/photo-1534008897995-27a23e859048?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "인도네시아", "count": "7개 목적지", "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "말레이시아", "count": "4개 목적지", "image": "https://images.unsplash.com/photo-1513415564515-763d91423b1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" }
+  ],
+  "footer": "Goline Co., Ltd."
+}

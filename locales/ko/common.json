@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "home": "홈",
+    "about": "회사소개",
+    "work": "포트폴리오",
+    "service": "서비스",
+    "team": "팀",
+    "contact": "연락처"
+  },
+  "auth": {
+    "login": "로그인",
+    "register": "회원가입",
+    "logout": "로그아웃",
+    "welcome": "환영합니다",
+    "create_account": "계정 만들기",
+    "forgot_password": "비밀번호 찾기",
+    "remember_me": "자동 로그인",
+    "no_account": "계정이 없으신가요?",
+    "has_account": "이미 계정이 있으신가요?"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "prev": "이전",
+    "next": "다음",
+    "close": "닫기",
+    "see_all": "전체 보기",
+    "view_more": "더 보기",
+    "change_language": "언어 변경",
+    "language": "언어",
+    "current_language": "현재 언어",
+    "changing_language": "언어 변경 중..."
+  },
+  "hotline": {
+    "text": "고객센터:",
+    "number": "03368.03368"
+  }
+}

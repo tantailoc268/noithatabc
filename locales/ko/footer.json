@@ -1,0 +1,12 @@
+{
+  "logo": "로고",
+  "description": "고객의 비즈니스를 더 좋고, 빠르고, 강하게 만들어 드리는 파트너입니다.",
+  "copyright": "© 2014-2025 Goline Co., Ltd. 모든 권리 보유.",
+  "menu": ["여행", "자연", "탐험", "과학", "팁"],
+  "about": ["회사소개", "연락처", "이용약관", "개인정보처리방침"],
+  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
+  "newsletter_title": "뉴스레터 구독",
+  "newsletter_text": "최신 소식과 특별 혜택을 가장 먼저 받아보세요",
+  "newsletter_placeholder": "이메일 주소를 입력하세요...",
+  "newsletter_button": "구독하기"
+}

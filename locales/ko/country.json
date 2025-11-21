@@ -1,0 +1,60 @@
+{
+  "title": "국가 관리",
+  "subtitle": "국가 정보 및 설정 관리",
+  "loading": "국가 데이터 로딩 중...",
+  "error": "오류",
+  "retry": "재시도",
+  "totalCountries": "총 국가 수",
+  "confirmed": "승인됨",
+  "noCountries": "국가를 찾을 수 없습니다",
+  "addFirstCountry": "첫 번째 국가를 추가하여 시작하세요",
+  "phoneCode": "국가 코드",
+  "currency": "통화",
+  "nationality": "국적",
+  "nameType": "명칭 유형",
+  "adminLevels": "행정 구역 레벨",
+  "edit": "수정",
+  "viewDetails": "상세 보기",
+  "delete": "삭제",
+  "addCountry": "국가 추가",
+  "status": {
+    "confirm": "승인됨",
+    "pending": "검토 중",
+    "rejected": "거부됨"
+  },
+  "filters": {
+    "all": "전체",
+    "confirmed": "승인됨",
+    "pending": "검토 중",
+    "search": "국가 검색..."
+  },
+  "details": {
+    "isoCode": "ISO 코드",
+    "isoAlpha2": "Alpha-2 코드",
+    "phoneCode": "국가 코드",
+    "currencyCode": "통화 코드",
+    "names": "국가명",
+    "nationalityNames": "국적명",
+    "postalCode": "우편번호 형식",
+    "locationPostalCode": "지역 우편번호",
+    "createdAt": "생성일",
+    "updatedAt": "수정일"
+  },
+  "messages": {
+    "loadSuccess": "국가 데이터 로드 성공",
+    "loadError": "국가 데이터 로드 실패",
+    "deleteSuccess": "국가가 삭제되었습니다",
+    "deleteError": "국가 삭제 실패",
+    "addSuccess": "국가가 추가되었습니다",
+    "addError": "국가 추가 실패",
+    "updateSuccess": "국가가 업데이트되었습니다",
+    "updateError": "국가 업데이트 실패"
+  },
+  "validation": {
+    "nameRequired": "국가명은 필수입니다",
+    "isoCodeRequired": "ISO 코드는 필수입니다",
+    "isoAlpha2Required": "Alpha-2 코드는 필수입니다",
+    "phoneCodeRequired": "국가 코드는 필수입니다",
+    "currencyCodeRequired": "통화 코드는 필수입니다"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "dashboard": {
+    "welcome": "대시보드",
+    "subtitle": "계정 및 서비스 관리",
+    "userInfo": {
+      "title": "사용자 정보",
+      "userId": "사용자 ID",
+      "username": "사용자명",
+      "language": "언어",
+      "notSet": "설정되지 않음"
+    },
+    "features": {
+      "title": "주요 기능",
+      "items": [
+        { "icon": "빠르고 안전", "title": "빠르고 안전", "description": "고속 성능과 은행급 보안" },
+        { "icon": "결제 관리", "title": "결제 관리", "description": "모든 결제와 거래를 한눈에" },
+        { "icon": "다국어 지원", "title": "다국어 지원", "description": "원활한 언어 전환" },
+        { "icon": "데이터 분석", "title": "데이터 분석", "description": "상세 리포트로 깊은 인사이트 제공" }
+      ]
+    },
+    "stats": {
+      "title": "통계",
+      "items": [
+        { "value": "12", "label": "총 서비스" },
+        { "value": "156", "label": "거래 건수" },
+        { "value": "₫8.250.000", "label": "총 수익" },
+        { "value": "98%", "label": "성공률" }
+      ]
+    },
+    "recentActivity": {
+      "title": "최근 활동",
+      "items": [
+        { "action": "로그인", "time": "2분 전", "status": "success" },
+        { "action": "프로필 업데이트", "time": "1시간 전", "status": "success" },
+        { "action": "결제 처리 중", "time": "3시간 전", "status": "pending" }
+      ]
+    },
+    "quickActions": {
+      "title": "빠른 작업",
+      "items": [
+        { "name": "서비스 추가", "icon": "plus" },
+        { "name": "리포트 보기", "icon": "chart" },
+        { "name": "설정", "icon": "gear" },
+        { "name": "도움말", "icon": "question" }
+      ]
+    }
+  }
+}
