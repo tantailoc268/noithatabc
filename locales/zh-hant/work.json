@@ -1,0 +1,12 @@
+{
+  "section_title": "作品集",
+  "filters": ["全部作品", "室內設計", "建築設計", "品牌識別"],
+  "projects": [
+    { "title": "萬達美術館", "category": "室內設計", "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" },
+    { "title": "現代階梯", "category": "建築設計", "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" },
+    { "title": "極簡辦公空間", "category": "室內設計", "image": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" },
+    { "title": "品牌識別設計", "category": "品牌識別", "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" },
+    { "title": "雕塑式建築", "category": "建築設計", "image": "https://images.unsplash.com/photo-1519996529931-28324d953f9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" },
+    { "title": "奢華酒店", "category": "室內設計", "image": "https://images.unsplash.com/photo-1600210492493-0946911123ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" }
+  ]
+}

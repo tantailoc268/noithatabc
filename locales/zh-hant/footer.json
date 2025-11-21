@@ -1,0 +1,12 @@
+{
+  "logo": "Logo",
+  "description": "我們致力於為客戶提供更優質、更快速、更強大的商業解決方案。",
+  "copyright": "© 2014-2025 Goline Co., Ltd. 著作權所有。",
+  "menu": ["旅遊", "自然", "探索", "科學", "建議"],
+  "about": ["關於我們", "聯絡我們", "服務條款", "隱私權政策"],
+  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
+  "newsletter_title": "電子報訂閱",
+  "newsletter_text": "訂閱即可第一時間收到最新消息與優惠活動",
+  "newsletter_placeholder": "請輸入電子郵件...",
+  "newsletter_button": "訂閱"
+}

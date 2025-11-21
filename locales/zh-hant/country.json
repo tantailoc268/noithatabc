@@ -1,0 +1,78 @@
+{
+  "title": "國家管理",
+  "subtitle": "管理國家資訊與設定",
+  "loading": "載入國家資料中...",
+  "error": "錯誤",
+  "retry": "重試",
+  "totalCountries": "總國家數",
+  "confirmed": "已確認",
+  "noCountries": "找不到國家",
+  "addFirstCountry": "新增第一筆國家資料開始使用",
+  
+  "phoneCode": "電話國碼",
+  "currency": "貨幣",
+  "nationality": "國籍",
+  "nameType": "名稱類型",
+  "adminLevels": "行政區劃等級",
+  
+  "edit": "編輯",
+  "viewDetails": "查看詳情",
+  "delete": "刪除",
+  "addCountry": "新增國家",
+  
+  "status": {
+    "confirm": "已確認",
+    "pending": "待審核",
+    "rejected": "已拒絕"
+  },
+  
+  "filters": {
+    "all": "全部",
+    "confirmed": "已確認",
+    "pending": "待審核",
+    "search": "搜尋國家..."
+  },
+  
+  "details": {
+    "isoCode": "ISO代碼",
+    "isoAlpha2": "Alpha-2代碼",
+    "phoneCode": "電話國碼",
+    "currencyCode": "貨幣代碼",
+    "names": "國家名稱",
+    "nationalityNames": "國籍名稱",
+    "postalCode": "郵遞區號格式",
+    "locationPostalCode": "地區郵遞區號",
+    "createdAt": "建立時間",
+    "updatedAt": "更新時間"
+  },
+  
+  "levelTypes": {
+    "level1": "第一級",
+    "level2": "第二級",
+    "level3": "第三級",
+    "level4": "第四級",
+    "province": "省／市",
+    "district": "縣／區",
+    "ward": "鄉鎮市區",
+    "village": "村里"
+  },
+  
+  "messages": {
+    "loadSuccess": "國家資料載入成功",
+    "loadError": "載入國家資料失敗",
+    "deleteSuccess": "國家已成功刪除",
+    "deleteError": "刪除國家失敗",
+    "addSuccess": "國家已成功新增",
+    "addError": "新增國家失敗",
+    "updateSuccess": "國家已成功更新",
+    "updateError": "更新國家失敗"
+  },
+  
+  "validation": {
+    "nameRequired": "國家名稱為必填",
+    "isoCodeRequired": "ISO代碼為必填",
+    "isoAlpha2Required": "Alpha-2代碼為必填",
+    "phoneCodeRequired": "電話國碼為必填",
+    "currencyCodeRequired": "貨幣代碼為必填"
+  }
+}

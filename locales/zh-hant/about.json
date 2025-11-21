@@ -1,0 +1,18 @@
+{
+  "section_title": "關於公司",
+  "title": "商業顧問",
+  "text": "Goline 提供完整的數位解決方案與專業顧問服務，協助企業應對挑戰、抓住機遇，在變動市場中實現永續成功。",
+  "features": [
+    {
+      "title": "商業",
+      "text": "範例文字。點擊選擇文字方塊。再次點擊或雙擊即可開始編輯文字。"
+    },
+    {
+      "title": "顧問",
+      "text": "範例文字。點擊選擇文字方塊。再次點擊或雙擊即可開始編輯文字。"
+    }
+  ],
+  "read_more": "閱讀更多",
+  "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_caption": "圖片來自 Freepik"
+}
