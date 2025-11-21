@@ -1,0 +1,31 @@
+{
+  "section_title": "KONTAKT",
+  "info": {
+    "office_title": "HAUPTBÜRO",
+    "office_content": "Nguyen Van Linh Straße 468, Tan My Bezirk, Ho-Chi-Minh-Stadt",
+    "phone_title": "TELEFONNUMMER",
+    "phone_content": "(+84) 03368.03368",
+    "fax_title": "FAX",
+    "fax_content": "(+84) 03368.03368",
+    "email_title": "E-MAIL",
+    "email_content": "goodjobconnect@gmail.com"
+  },
+  "form": {
+    "title": "Kontaktinformationen",
+    "labels": {
+      "email": "E-Mail",
+      "name": "Vollständiger Name",
+      "message": "Inhalt"
+    },
+    "placeholders": {
+      "email": "Geben Sie eine gültige E-Mail-Adresse ein",
+      "name": "Geben Sie Ihren vollständigen Namen ein",
+      "message": "Geben Sie den zu sendenden Inhalt ein"
+    },
+    "button": "SENDEN",
+    "caption": "Bilder von Freepik",
+    "map_image": "/images/maps_company.png",
+    "office_map_link": "Auf Google Maps anzeigen ↗",
+    "url_maps": "https://www.google.com/maps/place/468+%C4%90%C6%B0%E1%BB%9Dng+Nguy%E1%BB%85n+V%C4%83n+Linh,+T%C3%A2n+Ph%C3%BA,+Qu%E1%BA%ADn+7,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+72908,+Vi%E1%BB%87t+Nam/@10.7358599,106.7156208,16z/data=!4m15!1m8!3m7!1s0x31752f5a23474bb9:0x9eaf20c361ba139d!2zNDY4IMSQxrDhu51uZyBOZ3V54buFbiBWxINuIExpbmgsIFTDom4gUGjDuiwgUXXhuq1uIDcsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCA3MjkwOCwgVmnhu4d0IE5hbQ!3b1!8m2!3d10.736387!4d106.7212856!16s%2Fg%2F11tcblm91y!3m5!1s0x31752f5a23474bb9:0x9eaf20c361ba139d!8m2!3d10.736387!4d106.7212856!16s%2Fg%2F11tcblm91y?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D"
+  }
+}

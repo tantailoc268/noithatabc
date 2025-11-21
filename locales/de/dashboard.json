@@ -1,0 +1,22 @@
+{
+  "dashboard": {
+    "welcome": "Dashboard",
+    "subtitle": "Konto- und Dienstverwaltung",
+    "userInfo": {
+      "title": "Benutzerinformationen",
+      "userId": "Benutzer-ID",
+      "username": "Benutzername",
+      "language": "Sprache",
+      "notSet": "Nicht gesetzt"
+    },
+    "features": {
+      "title": "Hauptfunktionen",
+      "items": [
+        { "title": "Schnell & sicher", "description": "Höchstgeschwindigkeit und Bankensicherheit" },
+        { "title": "Zahlungsverwaltung", "description": "Alle Zahlungen und Transaktionen an einem Ort" },
+        { "title": "Mehrsprachig", "description": "Nahtloser Sprachwechsel" },
+        { "title": "Datenanalyse", "description": "Detaillierte Berichte und tiefgehende Einblicke" }
+      ]
+    }
+  }
+}

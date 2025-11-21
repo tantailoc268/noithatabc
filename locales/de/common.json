@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "work": "Portfolio",
+    "service": "Dienstleistungen",
+    "team": "Team",
+    "contact": "Kontakt"
+  },
+  "auth": {
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "logout": "Abmelden",
+    "welcome": "Willkommen",
+    "create_account": "Konto erstellen",
+    "forgot_password": "Passwort vergessen?",
+    "remember_me": "Angemeldet bleiben",
+    "no_account": "Noch kein Konto?",
+    "has_account": "Bereits registriert?"
+  },
+  "common": {
+    "loading": "Wird geladen...",
+    "prev": "Zurück",
+    "next": "Weiter",
+    "close": "Schließen",
+    "see_all": "Alle anzeigen",
+    "view_more": "Mehr anzeigen",
+    "change_language": "Sprache wechseln",
+    "language": "Sprache",
+    "current_language": "Aktuelle Sprache",
+    "changing_language": "Sprache wird gewechselt..."
+  },
+  "hotline": {
+    "text": "Hotline:",
+    "number": "03368.03368"
+  }
+}

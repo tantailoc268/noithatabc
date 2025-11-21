@@ -1,0 +1,12 @@
+{
+  "section_title": "ÜBER UNS",
+  "title": "UNTERNEHMENSBERATUNG",
+  "text": "Bei Goline bieten wir umfassende digitale Lösungen und professionelle Beratungsdienste, die Unternehmen dabei unterstützen, Herausforderungen zu meistern, Chancen zu nutzen und langfristig erfolgreich zu sein.",
+  "features": [
+    { "title": "BUSINESS", "text": "Beispieltext. Klicken, um den Textblock auszuwählen. Erneut klicken oder doppelt klicken, um zu bearbeiten." },
+    { "title": "BERATUNG", "text": "Beispieltext. Klicken, um den Textblock auszuwählen. Erneut klicken oder doppelt klicken, um zu bearbeiten." }
+  ],
+  "read_more": "Mehr erfahren",
+  "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_caption": "Bild von Freepik"
+}

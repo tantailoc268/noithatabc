@@ -1,0 +1,31 @@
+{
+  "title": "Länderverwaltung",
+  "subtitle": "Verwaltung von Länderinformationen und Einstellungen",
+  "loading": "Länder werden geladen...",
+  "error": "Fehler",
+  "retry": "Erneut versuchen",
+  "totalCountries": "Gesamtzahl Länder",
+  "confirmed": "Bestätigt",
+  "noCountries": "Keine Länder gefunden",
+  "addFirstCountry": "Fügen Sie das erste Land hinzu",
+  "phoneCode": "Ländercode",
+  "currency": "Währung",
+  "nationality": "Staatsangehörigkeit",
+  "nameType": "Namensart",
+  "adminLevels": "Verwaltungsebenen",
+  "edit": "Bearbeiten",
+  "viewDetails": "Details anzeigen",
+  "delete": "Löschen",
+  "addCountry": "Land hinzufügen",
+  "status": {
+    "confirm": "Bestätigt",
+    "pending": "Ausstehend",
+    "rejected": "Abgelehnt"
+  },
+  "filters": {
+    "all": "Alle",
+    "confirmed": "Bestätigt",
+    "pending": "Ausstehend",
+    "search": "Land suchen..."
+  }
+}
