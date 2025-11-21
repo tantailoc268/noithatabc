@@ -1,0 +1,12 @@
+{
+  "logo": "ロゴ",
+  "description": "私たちはお客様のビジネスをより良く、より速く、より強くするためのパートナーです。",
+  "copyright": "© 2014-2025 Goline Co., Ltd. All rights reserved.",
+  "menu": ["旅行", "自然", "探検", "科学", "アドバイス"],
+  "about": ["会社概要", "お問い合わせ", "利用規約", "プライバシーポリシー"],
+  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
+  "newsletter_title": "ニュースレター",
+  "newsletter_text": "最新情報やお得なキャンペーンをお届けします",
+  "newsletter_placeholder": "メールアドレスを入力...",
+  "newsletter_button": "登録する"
+}

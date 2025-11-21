@@ -1,0 +1,18 @@
+{
+  "section_title": "会社概要",
+  "title": "ビジネスコンサルティング",
+  "text": "私たちは、持続可能な成長を実現するための包括的なデジタルソリューションを提供します。貴社のビジネスを次のレベルへ導きます。",
+  "features": [
+    {
+      "title": "ビジネス",
+      "text": "戦略立案から実行渉まで、ビジネス全般をサポートします。"
+    },
+    {
+      "title": "コンサルティング",
+      "text": "経験豊富な専門家が貴社の課題解決を支援します。"
+    }
+  ],
+  "read_more": "詳細を見る",
+  "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_caption": "画像提供: Freepik"
+}

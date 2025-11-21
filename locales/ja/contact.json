@@ -1,0 +1,31 @@
+{
+  "section_title": "お問い合わせ",
+  "info": {
+    "office_title": "本社",
+    "office_content": "ホーチミン市 タンミー区 グエンヴァンリン通り468",
+    "phone_title": "電話番号",
+    "phone_content": "(+84) 03368.03368",
+    "fax_title": "FAX",
+    "fax_content": "(+84) 03368.03368",
+    "email_title": "メール",
+    "email_content": "goodjobconnect@gmail.com"
+  },
+  "form": {
+    "title": "連絡先情報",
+    "labels": {
+      "email": "メールアドレス",
+      "name": "氏名",
+      "message": "内容"
+    },
+    "placeholders": {
+      "email": "有効なメールアドレスを入力してください",
+      "name": "氏名を入力してください",
+      "message": "送信する内容を入力してください"
+    },
+    "button": "送信",
+    "caption": "Freepikからの画像",
+    "map_image": "/images/maps_company.png",
+    "office_map_link": "Googleマップで見る ↗",
+    "url_maps": "https://www.google.com/maps/place/468+%C4%90%C6%B0%E1%BB%9Dng+Nguy%E1%BB%85n+V%C4%83n+Linh,+T%C3%A2n+Ph%C3%BA,+Qu%E1%BA%ADn+7,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+72908,+Vi%E1%BB%87t+Nam/@10.7358599,106.7156208,16z/data=!4m15!1m8!3m7!1s0x31752f5a23474bb9:0x9eaf20c361ba139d!2zNDY4IMSQxrDhu51uZyBOZ3V54buFbiBWxINuIExpbmgsIFTDom4gUGjDuiwgUXXhuq1uIDcsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCA3MjkwOCwgVmnhu4d0IE5hbQ!3b1!8m2!3d10.736387!4d106.7212856!16s%2Fg%2F11tcblm91y!3m5!1s0x31752f5a23474bb9:0x9eaf20c361ba139d!8m2!3d10.736387!4d106.7212856!16s%2Fg%2F11tcblm91y?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D"
+  }
+}

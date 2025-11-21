@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "home": "ホーム",
+    "about": "会社概要",
+    "work": "実績",
+    "service": "サービス",
+    "team": "チーム",
+    "contact": "お問い合わせ"
+  },
+  "auth": {
+    "login": "ログイン",
+    "register": "新規登録",
+    "logout": "ログアウト",
+    "welcome": "おかえりなさい",
+    "create_account": "新規アカウント作成",
+    "forgot_password": "パスワードを忘れた場合",
+    "remember_me": "次回から自動ログイン",
+    "no_account": "アカウントをお持ちでない方",
+    "has_account": "すでにアカウントをお持ちの方"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "prev": "前へ",
+    "next": "次へ",
+    "close": "閉じる",
+    "see_all": "すべて見る",
+    "view_more": "もっと見る",
+    "change_language": "言語を変更",
+    "language": "言語",
+    "current_language": "現在の言語",
+    "changing_language": "言語を変更中..."
+  },
+  "hotline": {
+    "text": "ホットライン:",
+    "number": "03368.03368"
+  }
+}

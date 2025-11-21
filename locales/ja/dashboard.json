@@ -1,0 +1,55 @@
+{
+  "dashboard": {
+    "welcome": "ダッシュボード",
+    "subtitle": "アカウントとサービスを管理",
+    "userInfo": {
+      "title": "ユーザー情報",
+      "userId": "ユーザーID",
+      "username": "ユーザー名",
+      "language": "言語",
+      "notSet": "未設定"
+    },
+    "features": {
+      "title": "主な機能",
+      "items": [
+        { "icon": "🚀", "title": "高速・安全", "description": "高速パフォーマンスと銀行レベルのセキュリティ" },
+        { "icon": "💳", "title": "支払い管理", "description": "すべての支払いと取引を一元管理" },
+        { "icon": "🌍", "title": "多言語対応", "description": "シームレスに言語を切り替え" },
+        { "icon": "📊", "title": "分析機能", "description": "詳細なレポートと分析で洞察を得る" }
+      ]
+    },
+    "stats": {
+      "title": "統計情報",
+      "items": [
+        { "value": "12", "label": "総サービス数" },
+        { "value": "156", "label": "取引件数" },
+        { "value": "₫8.250.000", "label": "総売上" },
+        { "value": "98%", "label": "成功率" }
+      ]
+    },
+    "recentActivity": {
+      "title": "最近のアクティビティ",
+      "items": [
+        { "action": "ログイン", "time": "2分前", "status": "success" },
+        { "action": "プロフィール更新", "time": "1時間前", "status": "success" },
+        { "action": "支払い処理中", "time": "3時間前", "status": "pending" }
+      ]
+    },
+    "quickActions": {
+      "title": "クイックアクション",
+      "items": [
+        { "name": "サービス追加", "icon": "➕" },
+        { "name": "レポートを見る", "icon": "📈" },
+        { "name": "設定", "icon": "⚙️" },
+        { "name": "ヘルプ＆サポート", "icon": "❓" }
+      ]
+    },
+    "messages": {
+      "loading": "ダッシュボードを読み込んでいます...",
+      "error": "ダッシュボードの読み込みエラー",
+      "retry": "再試行",
+      "accessGranted": "アクセスが許可されました",
+      "welcomeBack": "おかえりなさい！"
+    }
+  }
+}

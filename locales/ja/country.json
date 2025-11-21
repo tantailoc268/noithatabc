@@ -1,0 +1,78 @@
+{
+  "title": "国管理",
+  "subtitle": "国の情報と設定を管理",
+  "loading": "国データを読み込んでいます...",
+  "error": "エラー",
+  "retry": "再試行",
+  "totalCountries": "総国数",
+  "confirmed": "承認済み",
+  "noCountries": "国が見つかりません",
+  "addFirstCountry": "最初の国を追加して始めましょう",
+  
+  "phoneCode": "電話コード",
+  "currency": "通貨",
+  "nationality": "国籍",
+  "nameType": "名称タイプ",
+  "adminLevels": "行政区画レベル",
+  
+  "edit": "編集",
+  "viewDetails": "詳細を見る",
+  "delete": "削除",
+  "addCountry": "国を追加",
+  
+  "status": {
+    "confirm": "承認済み",
+    "pending": "審査中",
+    "rejected": "拒否"
+  },
+  
+  "filters": {
+    "all": "すべて",
+    "confirmed": "承認済み",
+    "pending": "審査中",
+    "search": "国を検索..."
+  },
+  
+  "details": {
+    "isoCode": "ISOコード",
+    "isoAlpha2": "アルファ2コード",
+    "phoneCode": "電話コード",
+    "currencyCode": "通貨コード",
+    "names": "国名",
+    "nationalityNames": "国籍名",
+    "postalCode": "郵便番号形式",
+    "locationPostalCode": "地域郵便番号",
+    "createdAt": "作成日",
+    "updatedAt": "更新日"
+  },
+  
+  "levelTypes": {
+    "level1": "レベル1",
+    "level2": "レベル2",
+    "level3": "レベル3",
+    "level4": "レベル4",
+    "province": "省／市",
+    "district": "地区",
+    "ward": "町／コミューン",
+    "village": "村／集落"
+  },
+  
+  "messages": {
+    "loadSuccess": "国の読み込みが完了しました",
+    "loadError": "国の読み込みに失敗しました",
+    "deleteSuccess": "国が正常に削除されました",
+    "deleteError": "国の削除に失敗しました",
+    "addSuccess": "国が正常に追加されました",
+    "addError": "国の追加に失敗しました",
+    "updateSuccess": "国が正常に更新されました",
+    "updateError": "国の更新に失敗しました"
+  },
+  
+  "validation": {
+    "nameRequired": "国名は必須です",
+    "isoCodeRequired": "ISOコードは必須です",
+    "isoAlpha2Required": "アルファ2コードは必須です",
+    "phoneCodeRequired": "電話コードは必須です",
+    "currencyCodeRequired": "通貨コードは必須です"
+  }
+}

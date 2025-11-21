@@ -1,0 +1,16 @@
+{
+  "section_title": "私たちのサービス",
+  "header_title": "次の特別な<br/>目的地が待っています",
+  "see_all": "すべての目的地を見る",
+  "destinations": [
+    { "name": "ネパール", "count": "2件の目的地", "image": "https://images.unsplash.com/photo-1544735716-2f9a7b6a5b7a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "バングラデシュ", "count": "2件の目的地", "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "モルディブ", "count": "8件の目的地", "image": "https://images.unsplash.com/photo-1596010425751-8c67bf7a8d7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "タイ", "count": "8件の目的地", "image": "https://images.unsplash.com/photo-1528181304800-259b08848526?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "日本", "count": "6件の目的地", "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "ベトナム", "count": "5件の目的地", "image": "https://images.unsplash.com/photo-1534008897995-27a23e859048?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "インドネシア", "count": "7件の目的地", "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "マレーシア", "count": "4件の目的地", "image": "https://images.unsplash.com/photo-1513415564515-763d91423b1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" }
+  ],
+  "footer": "Goline Co., Ltd."
+}
