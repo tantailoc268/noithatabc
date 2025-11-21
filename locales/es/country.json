@@ -1,0 +1,70 @@
+{
+  "title": "Gestión de países",
+  "subtitle": "Administración de información y configuración de países",
+  "loading": "Cargando países...",
+  "error": "Error",
+  "retry": "Reintentar",
+  "totalCountries": "Total de países",
+  "confirmed": "Confirmado",
+  "noCountries": "No se encontraron países",
+  "addFirstCountry": "Agrega tu primer país para comenzar",
+  "phoneCode": "Código telefónico",
+  "currency": "Moneda",
+  "nationality": "Nacionalidad",
+  "nameType": "Tipo de nombre",
+  "adminLevels": "Niveles administrativos",
+  "edit": "Editar",
+  "viewDetails": "Ver detalles",
+  "delete": "Eliminar",
+  "addCountry": "Agregar país",
+  "status": {
+    "confirm": "Confirmado",
+    "pending": "Pendiente",
+    "rejected": "Rechazado"
+  },
+  "filters": {
+    "all": "Todos",
+    "confirmed": "Confirmados",
+    "pending": "Pendientes",
+    "search": "Buscar país..."
+  },
+  "details": {
+    "isoCode": "Código ISO",
+    "isoAlpha2": "Código Alpha-2",
+    "phoneCode": "Código telefónico",
+    "currencyCode": "Código de moneda",
+    "names": "Nombres del país",
+    "nationalityNames": "Nombres de nacionalidad",
+    "postalCode": "Formato de código postal",
+    "locationPostalCode": "Código postal regional",
+    "createdAt": "Fecha de creación",
+    "updatedAt": "Fecha de actualización"
+  },
+  "levelTypes": {
+    "level1": "Nivel 1",
+    "level2": "Nivel 2",
+    "level3": "Nivel 3",
+    "level4": "Nivel 4",
+    "province": "Provincia/Ciudad",
+    "district": "Distrito",
+    "ward": "Comuna",
+    "village": "Aldea"
+  },
+  "messages": {
+    "loadSuccess": "Países cargados correctamente",
+    "loadError": "Error al cargar países",
+    "deleteSuccess": "País eliminado correctamente",
+    "deleteError": "Error al eliminar país",
+    "addSuccess": "País agregado correctamente",
+    "addError": "Error al agregar país",
+    "updateSuccess": "País actualizado correctamente",
+    "updateError": "Error al actualizar país"
+  },
+  "validation": {
+    "nameRequired": "El nombre del país es obligatorio",
+    "isoCodeRequired": "El código ISO es obligatorio",
+    "isoAlpha2Required": "El código Alpha-2 es obligatorio",
+    "phoneCodeRequired": "El código telefónico es obligatorio",
+    "currencyCodeRequired": "El código de moneda es obligatorio"
+  }
+}

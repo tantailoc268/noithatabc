@@ -1,0 +1,12 @@
+{
+  "logo": "Logo",
+  "description": "Ayudamos a las empresas a ser mejores, más rápidas y más fuertes con soluciones digitales modernas.",
+  "copyright": "© 2014-2025 Goline Co., Ltd. Todos los derechos reservados.",
+  "menu": ["Viajes", "Naturaleza", "Exploración", "Ciencia", "Consejos"],
+  "about": ["Sobre nosotros", "Contacto", "Términos de uso", "Política de privacidad"],
+  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
+  "newsletter_title": "BOLETÍN INFORMATIVO",
+  "newsletter_text": "Recibe las últimas noticias y ofertas exclusivas primero",
+  "newsletter_placeholder": "Ingresa tu correo electrónico...",
+  "newsletter_button": "Suscribirse"
+}

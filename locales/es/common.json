@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "work": "Portafolio",
+    "service": "Servicios",
+    "team": "Equipo",
+    "contact": "Contacto"
+  },
+  "auth984": {
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar sesión",
+    "welcome": "Bienvenido",
+    "create_account": "Crear cuenta",
+    "forgot_password": "¿Olvidaste tu contraseña?",
+    "remember_me": "Recordarme",
+    "no_account": "¿No tienes cuenta?",
+    "has_account": "¿Ya tienes cuenta?"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "close": "Cerrar",
+    "see_all": "Ver todo",
+    "view_more": "Ver más",
+    "change_language": "Cambiar idioma",
+    "language": "Idioma",
+    "current_language": "Idioma actual",
+    "changing_language": "Cambiando idioma..."
+  },
+  "hotline": {
+    "text": "Línea directa:",
+    "number": "03368.03368"
+  }
+}

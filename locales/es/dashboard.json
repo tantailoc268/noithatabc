@@ -1,0 +1,55 @@
+{
+  "dashboard": {
+    "welcome": "Panel de control",
+    "subtitle": "Gestión de cuenta y servicios",
+    "userInfo": {
+      "title": "Información del usuario",
+      "userId": "ID de usuario",
+      "username": "Nombre de usuario",
+      "language": "Idioma",
+      "notSet": "No establecido"
+    },
+    "features": {
+      "title": "Características principales",
+      "items": [
+        { "icon": "Rápido y seguro", "title": "Rápido y seguro", "description": "Alta velocidad y seguridad nivel bancario" },
+        { "icon": "Gestión de pagos", "title": "Gestión de pagos", "description": "Todos los pagos y transacciones en un solo lugar" },
+        { "icon": "Multilingüe", "title": "Multilingüe", "description": "Cambio de idioma fluido" },
+        { "icon": "Análisis", "title": "Análisis", "description": "Análisis profundo y reportes detallados" }
+      ]
+    },
+    "stats": {
+      "title": "Estadísticas",
+      "items": [
+        { "value": "12", "label": "Total servicios" },
+        { "value": "156", "label": "Transacciones" },
+        { "value": "₫8.250.000", "label": "Ingresos totales" },
+        { "value": "98%", "label": "Tasa de éxito" }
+      ]
+    },
+    "recentActivity": {
+      "title": "Actividad reciente",
+      "items": [
+        { "action": "Inicio de sesión", "time": "Hace 2 minutos", "status": "success" },
+        { "action": "Actualización de perfil", "time": "Hace 1 hora", "status": "success" },
+        { "action": "Procesando pago", "time": "Hace 3 horas", "status": "pending" }
+      ]
+    },
+    "quickActions": {
+      "title": "Acciones rápidas",
+      "items": [
+        { "name": "Agregar servicio", "icon": "plus" },
+        { "name": "Reportes", "icon": "chart" },
+        { "name": "Configuración", "icon": "gear" },
+        { "name": "Ayuda", "icon": "question" }
+      ]
+    },
+    "messages": {
+      "loading": "Cargando panel...",
+      "error": "Error al cargar el panel",
+      "retry": "Reintentar",
+      "accessGranted": "Acceso concedido",
+      "welcomeBack": "¡Bienvenido de nuevo!"
+    }
+  }
+}

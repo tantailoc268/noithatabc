@@ -1,0 +1,18 @@
+{
+  "section_title": "SOBRE NOSOTROS",
+  "title": "CONSULTORÍA EMPRESARIAL",
+  "text": "En Goline nos especializamos en ofrecer soluciones digitales integrales y servicios de consultoría profesional para ayudar a las empresas a superar desafíos, aprovechar oportunidades y lograr éxito sostenible en un mercado en constante evolución.",
+  "features": [
+    {
+      "title": "NEGOCIOS",
+      "text": "Texto de ejemplo. Haz clic para seleccionar el bloque de texto. Haz clic de nuevo o doble clic para comenzar a editar."
+    },
+    {
+      "title": "CONSULTORÍA",
+      "text": "Texto de ejemplo. Haz clic para seleccionar el bloque de texto. Haz clic de nuevo o doble clic para comenzar a editar."
+    }
+  ],
+  "read_more": "Leer más",
+  "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_caption": "Imagen de Freepik"
+}
