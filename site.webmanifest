@@ -1,25 +1,26 @@
 {
-  "name": "GOJOCO - Digital Solutions",
-  "short_name": "GOJOCO",
-  "description": "Complete digital solution for your business",
+  "name": "ABC Interior - Thiết kế nội thất",
+  "short_name": "ABC Interior", 
+  "description": "Công ty thiết kế và thi công nội thất chuyên nghiệp",
   "icons": [
     {
-      "src": "images/favicon-32x32.png",
+      "src": "/images/icons/favicon-32x32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "images/favicon-16x16.png",
-      "sizes": "16x16",
+      "src": "/images/icons/favicon-16x16.png",
+      "sizes": "16x16", 
       "type": "image/png"
     },
     {
-      "src": "images/apple-touch-icon.png",
+      "src": "/images/icons/apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
     }
   ],
   "theme_color": "#1e90ff",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "display": "standalone",
+  "start_url": "/"
 }
