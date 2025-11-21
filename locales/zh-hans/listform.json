@@ -1,0 +1,14 @@
+{
+  "header_title": "我们的服务",
+  "destinations": [
+    { "name": "尼泊尔", "count": "2个目的地", "image": "https://images.unsplash.com/photo-1544735716-2f9a7b6a5b7a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "孟加拉国", "count": "2个目的地", "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "马尔代夫", "count": "8个目的地", "image": "https://images.unsplash.com/photo-1596010425751-8c67bf7a8d7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "泰国", "count": "8个目的地", "image": "https://images.unsplash.com/photo-1528181304800-259b08848526?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "日本", "count": "6个目的地", "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "越南", "count": "5个目的地", "image": "https://images.unsplash.com/photo-1534008897995-27a23e859048?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "印尼", "count": "7个目的地", "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "马来西亚", "count": "4个目的地", "image": "https://images.unsplash.com/photo-1513415564515-763d91423b1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" }
+  ],
+  "footer": "Goline Co., Ltd."
+}

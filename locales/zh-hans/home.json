@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "slides": [
+      {
+        "title": "欢迎来到 Goline",
+        "text": "现代企业可持续增长的完整数字化解决方案。",
+        "buttons": ["了解更多", "联系我们"],
+        "image": "https://picsum.photos/id/1018/1600/900"
+      },
+      {
+        "title": "快速高效开发",
+        "text": "我们为全球企业提供专业设计、开发与数字化转型服务。",
+        "buttons": ["我们的服务", "团队介绍"],
+        "image": "https://picsum.photos/id/1025/1600/900"
+      },
+      {
+        "title": "共同创新",
+        "text": "我们相信，技术只有帮助人们每天创造有意义的改变，才真正有价值。",
+        "buttons": ["立即联系", "作品集"],
+        "image": "https://picsum.photos/id/1005/1600/900"
+      }
+    ]
+  }
+}

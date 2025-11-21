@@ -1,0 +1,78 @@
+{
+  "title": "国家管理",
+  "subtitle": "管理国家信息与设置",
+  "loading": "正在加载国家数据...",
+  "error": "错误",
+  "retry": "重试",
+  "totalCountries": "国家总数",
+  "confirmed": "已确认",
+  "noCountries": "未找到国家",
+  "addFirstCountry": "添加第一个国家开始使用",
+
+  "phoneCode": "国际电话区号",
+  "currency": "货币",
+  "nationality": "国籍",
+  "nameType": "名称类型",
+  "adminLevels": "行政层级",
+
+  "edit": "编辑",
+  "viewDetails": "查看详情",
+  "delete": "删除",
+  "addCountry": "添加国家",
+
+  "status": {
+    "confirm": "已确认",
+    "pending": "待审核",
+    "rejected": "已拒绝"
+  },
+
+  "filters": {
+    "all": "全部",
+    "confirmed": "已确认",
+    "pending": "待审核",
+    "search": "搜索国家..."
+  },
+
+  "details": {
+    "isoCode": "ISO代码",
+    "isoAlpha2": "Alpha-2代码",
+    "phoneCode": "国际电话区号",
+    "currencyCode": "货币代码",
+    "names": "国家名称",
+    "nationalityNames": "国籍名称",
+    "postalCode": "邮政编码格式",
+    "locationPostalCode": "地区邮编",
+    "createdAt": "创建时间",
+    "updatedAt": "更新时间"
+  },
+
+  "levelTypes": {
+    "level1": "一级行政区",
+    "level2": "二级行政区",
+    "level3": "三级行政区",
+    "level4": "四级行政区",
+    "province": "省/直辖市",
+    "district": "区/县",
+    "ward": "乡/镇/街道",
+    "village": "村/社区"
+  },
+
+  "messages": {
+    "loadSuccess": "国家数据加载成功",
+    "loadError": "加载国家数据失败",
+    "deleteSuccess": "国家删除成功",
+    "deleteError": "删除国家失败",
+    "addSuccess": "国家添加成功",
+    "addError": "添加国家失败",
+    "updateSuccess": "国家更新成功",
+    "updateError": "更新国家失败"
+  },
+
+  "validation": {
+    "nameRequired": "国家名称必填",
+    "isoCodeRequired": "ISO代码必填",
+    "isoAlpha2Required": "Alpha-2代码必填",
+    "phoneCodeRequired": "国际电话区号必填",
+    "currencyCodeRequired": "货币代码必填"
+  }
+}

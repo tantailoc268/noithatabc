@@ -1,0 +1,31 @@
+{
+  "section_title": "联系我们",
+  "info": {
+    "office_title": "总公司",
+    "office_content": "胡志明市 新美坊 阮文灵街468号",
+    "phone_title": "电话号码",
+    "phone_content": "(+84) 03368.03368",
+    "fax_title": "传真",
+    "fax_content": "(+84) 03368.03368",
+    "email_title": "电子邮件",
+    "email_content": "goodjobconnect@gmail.com"
+  },
+  "form": {
+    "title": "联系信息",
+    "labels": {
+      "email": "邮箱",
+      "name": "姓名",
+      "message": "内容"
+    },
+    "placeholders": {
+      "email": "请输入有效的邮箱地址",
+      "name": "请输入您的姓名",
+      "message": "请输入要发送的内容"
+    },
+    "button": "发送",
+    "caption": "图片来自Freepik",
+    "map_image": "/images/maps_company.png",
+    "office_map_link": "点击查看Google地图 ↗",
+    "url_maps": "https://www.google.com/maps/place/468+%C4%90%C6%B0%E1%BB%9Dng+Nguy%E1%BB%85n+V%C4%83n+Linh,+T%C3%A2n+Ph%C3%BA,+Qu%E1%BA%ADn+7,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+72908,+Vi%E1%BB%87t+Nam/@10.7358599,106.7156208,16z/data=!4m15!1m8!3m7!1s0x31752f5a23474bb9:0x9eaf20c361ba139d!2zNDY4IMSQxrDhu51uZyBOZ3V54buFbiBWxINuIExpbmgsIFTDom4gUGjDuiwgUXXhuq1uIDcsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCA3MjkwOCwgVmnhu4d0IE5hbQ!3b1!8m2!3d10.736387!4d106.7212856!16s%2Fg%2F11tcblm91y!3m5!1s0x31752f5a23474bb9:0x9eaf20c361ba139d!8m2!3d10.736387!4d106.7212856!16s%2Fg%2F11tcblm91y?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D"
+  }
+}

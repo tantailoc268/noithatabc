@@ -1,0 +1,12 @@
+{
+  "section_title": "关于我们",
+  "title": "企业咨询",
+  "text": "Goline 提供全面的数字化解决方案和专业咨询服务，帮助企业在不断变化的市场中应对挑战、抓住机遇，实现可持续发展。",
+  "features": [
+    { "title": "商业", "text": "示例文本。点击选择文本块。再次点击或双击开始编辑。" },
+    { "title": "咨询", "text": "示例文本。点击选择文本块。再次点击或双击开始编辑。" }
+  ],
+  "read_more": "了解更多",
+  "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_caption": "图片来自 Freepik"
+}

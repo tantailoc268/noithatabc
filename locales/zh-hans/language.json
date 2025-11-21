@@ -1,0 +1,16 @@
+{
+  "selectlanguage": "选择语言",
+  "language": [
+    { "sym": "en", "name": "英语", "icon": "https://flagcdn.com/w320/gb.png" },
+    { "sym": "vi", "name": "越南语", "icon": "https://flagcdn.com/w320/vn.png" },
+    { "sym": "ja", "name": "日语", "icon": "https://flagcdn.com/w320/jp.png" },
+    { "sym": "zh-Hans", "name": "中文（简体）", "icon": "https://flagcdn.com/w320/cn.png" },
+    { "sym": "zh-Hant", "name": "中文（繁体）", "icon": "https://flagcdn.com/w320/cn.png" },
+    { "sym": "ko", "name": "韩语", "icon": "https://flagcdn.com/w320/kr.png" },
+    { "sym": "fr", "name": "法语", "icon": "https://flagcdn.com/w320/fr.png" },
+    { "sym": "de", "name": "德语", "icon": "https://flagcdn.com/w320/de.png" },
+    { "sym": "es", "name": "西班牙语", "icon": "https://flagcdn.com/w320/es.png" },
+    { "sym": "pt", "name": "葡萄牙语", "icon": "https://flagcdn.com/w320/pt.png" },
+    { "sym": "ru", "name": "俄语", "icon": "https://flagcdn.com/w320/ru.png" }
+  ]
+}

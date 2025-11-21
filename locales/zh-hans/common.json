@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "home": "首页",
+    "about": "关于",
+    "work": "作品集",
+    "service": "服务",
+    "team": "团队",
+    "contact": "联系"
+  },
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出登录",
+    "welcome": "欢迎",
+    "create_account": "创建账户",
+    "forgot_password": "忘记密码？",
+    "remember_me": "记住登录",
+    "no_account": "还没有账户？",
+    "has_account": "已有账户？"
+  },
+  "common": {
+    "loading": "加载中...",
+    "prev": "上一页",
+    "next": "下一页",
+    "close": "关闭",
+    "see_all": "查看全部",
+    "view_more": "查看更多",
+    "change_language": "切换语言",
+    "language": "语言",
+    "current_language": "当前语言",
+    "changing_language": "正在切换语言..."
+  },
+  "hotline": {
+    "text": "热线电话：",
+    "number": "03368.03368"
+  }
+}
