@@ -1,0 +1,27 @@
+{
+  "section_title": "CONTATO",
+  "info": {
+    "office_title": "ESCRITÓRIO PRINCIPAL",
+    "office_content": "468 Nguyễn Văn Linh, Tân Phú, Distrito 7\\nCidade de Ho Chi Minh, Vietnã",
+    "phone_title": "TELEFONE",
+    "phone_content": "234-9876-5400\\n888-0123-4567 (Ligação gratuita)",
+    "fax_title": "FAX",
+    "fax_content": "1-234-567-8900",
+    "email_title": "E-MAIL",
+    "email_content": "hello@theme.com"
+  },
+  "form": {
+    "title": "Entre em contato",
+    "labels": { "email": "E-mail", "name": "Nome", "message": "Mensagem" },
+    "placeholders": {
+      "email": "Digite um e-mail válido",
+      "name": "Seu nome",
+      "message": "Sua mensagem"
+    },
+    "button": "ENVIAR",
+    "caption": "Imagem de Freepik",
+    "map_image": "/images/maps_company.png",
+    "office_map_link": "Ver no Google Maps ↗",
+    "url_maps": "https://www.google.com/maps/place/468+..."
+  }
+}

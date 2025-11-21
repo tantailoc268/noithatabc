@@ -1,0 +1,48 @@
+{
+  "dashboard": {
+    "welcome": "Painel de Controle",
+    "subtitle": "Gerenciamento de conta e serviços",
+    "userInfo": {
+      "title": "Informações do usuário",
+      "userId": "ID do usuário",
+      "username": "Nome de usuário",
+      "language": "Idioma",
+      "notSet": "Não definido"
+    },
+    "features": {
+      "title": "Principais recursos",
+      "items": [
+        { "title": "Rápido e seguro", "description": "Velocidade máxima e segurança bancária" },
+        { "title": "Gestão de pagamentos", "description": "Todos os pagamentos e transações em um só lugar" },
+        { "title": "Multilíngue", "description": "Troca de idioma fluida" },
+        { "title": "Análise de dados", "description": "Relatórios detalhados e insights profundos" }
+      ]
+    },
+    "stats": {
+      "title": "Estatísticas",
+      "items": [
+        { "value": "12", "label": "Total de serviços" },
+        { "value": "156", "label": "Transações" },
+        { "value": "₫8.250.000", "label": "Receita total" },
+        { "value": "98%", "label": "Taxa de sucesso" }
+      ]
+    },
+    "recentActivity": {
+      "title": "Atividade recente",
+      "items": [
+        { "action": "Login", "time": "Há 2 minutos", "status": "success" },
+        { "action": "Atualização de perfil", "time": "Há 1 hora", "status": "success" },
+        { "action": "Processando pagamento", "time": "Há 3 horas", "status": "pending" }
+      ]
+    },
+    "quickActions": {
+      "title": "Ações rápidas",
+      "items": [
+        { "name": "Adicionar serviço", "icon": "plus" },
+        { "name": "Ver relatórios", "icon": "chart" },
+        { "name": "Configurações", "icon": "gear" },
+        { "name": "Ajuda", "icon": "question" }
+      ]
+    }
+  }
+}

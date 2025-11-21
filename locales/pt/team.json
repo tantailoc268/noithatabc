@@ -1,0 +1,10 @@
+{
+  "section_title": "NOSSA EQUIPE",
+  "footer": "Imagens de Freepik",
+  "members": [
+    { "name": "Alex Smith", "role": "DIRETOR CRIATIVO", "description": "Transformar a visão dos nossos clientes em realidade impressionante é a minha maior paixão.", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "May Brown", "role": "GERENTE DE VENDAS", "description": "Colocamos as necessidades do cliente em primeiro lugar e oferecemos as melhores soluções.", "image": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "Anna Richmond", "role": "DESENVOLVEDORA WEB", "description": "Criamos sistemas rápidos, estáveis e seguros com tecnologias modernas.", "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "Roxy Swanson", "role": "DESIGNER WEB", "description": "Encontramos o equilíbrio perfeito entre beleza e usabilidade.", "image": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" }
+  ]
+}

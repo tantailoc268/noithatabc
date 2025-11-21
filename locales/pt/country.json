@@ -1,0 +1,60 @@
+{
+  "title": "Gerenciamento de países",
+  "subtitle": "Gerenciamento de informações e configurações de países",
+  "loading": "Carregando países...",
+  "error": "Erro",
+  "retry": "Tentar novamente",
+  "totalCountries": "Total de países",
+  "confirmed": "Confirmado",
+  "noCountries": "Nenhum país encontrado",
+  "addFirstCountry": "Adicione seu primeiro país para começar",
+  "phoneCode": "Código telefônico",
+  "currency": "Moeda",
+  "nationality": "Nacionalidade",
+  "nameType": "Tipo de nome",
+  "adminLevels": "Níveis administrativos",
+  "edit": "Editar",
+  "viewDetails": "Ver detalhes",
+  "delete": "Excluir",
+  "addCountry": "Adicionar país",
+  "status": {
+    "confirm": "Confirmado",
+    "pending": "Pendente",
+    "rejected": "Rejeitado"
+  },
+  "filters": {
+    "all": "Todos",
+    "confirmed": "Confirmados",
+    "pending": "Pendentes",
+    "search": "Buscar país..."
+  },
+  "details": {
+    "isoCode": "Código ISO",
+    "isoAlpha2": "Código Alpha-2",
+    "phoneCode": "Código telefônico",
+    "currencyCode": "Código da moeda",
+    "names": "Nomes do país",
+    "nationalityNames": "Nomes de nacionalidade",
+    "postalCode": "Formato de CEP",
+    "locationPostalCode": "CEP regional",
+    "createdAt": "Criado em",
+    "updatedAt": "Atualizado em"
+  },
+  "messages": {
+    "loadSuccess": "Países carregados com sucesso",
+    "loadError": "Erro ao carregar países",
+    "deleteSuccess": "País excluído com sucesso",
+    "deleteError": "Erro ao excluir país",
+    "addSuccess": "País adicionado com sucesso",
+    "addError": "Erro ao adicionar país",
+    "updateSuccess": "País atualizado com sucesso",
+    "updateError": "Erro ao atualizar país"
+  },
+  "validation": {
+    "nameRequired": "O nome do país é obrigatório",
+    "isoCodeRequired": "O código ISO é obrigatório",
+    "isoAlpha2Required": "O código Alpha-2 é obrigatório",
+    "phoneCodeRequired": "O código telefônico é obrigatório",
+    "currencyCodeRequired": "O código da moeda é obrigatório"
+  }
+}
