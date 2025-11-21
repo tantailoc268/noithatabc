@@ -1,15 +1,15 @@
 {
   "section_title": "ABOUT COMPANY",
-  "title": "BUSINESS CONSULTING",
-  "text": "At Goline, we specialize in providing comprehensive digital solutions and expert consulting services to help businesses navigate challenges, seize opportunities, and achieve long-term success in an ever-evolving market.",
+  "title": "INTERIOR & EXTERIOR DESIGN",
+  "text": "At ABC Interior Decoration Co., Ltd., we specialize in providing professional interior and exterior design services. Since 2016, we have been dedicated to transforming spaces into aesthetically pleasing and functional environments, ensuring client satisfaction in every project we undertake.",
   "features": [
     {
-      "title": "BUSINESS",
-      "text": "Sample text. Click to select the text box. Click again or double click to start editing the text."
+      "title": "DESIGN",
+      "text": "Our team creates innovative, customized designs that reflect the unique style and requirements of each client."
     },
     {
-      "title": "CONSULTING",
-      "text": "Sample text. Click to select the text box. Click again or double click to start editing the text."
+      "title": "EXECUTION",
+      "text": "We manage projects from concept to completion, ensuring high-quality construction, timely delivery, and attention to detail."
     }
   ],
   "read_more": "READ MORE",

@@ -2,22 +2,94 @@
   "hero": {
     "slides": [
       {
-        "title": "Welcome to Goline",
-        "text": "A complete digital solution to help your business grow sustainably in the modern era.",
-        "buttons": ["Learn More", "Contact Us"],
-        "image": "https://picsum.photos/id/1018/1600/900"
+        "title": "Transform Your Living Space",
+        "text": "We turn your ideas into beautiful and functional interior spaces tailored to your lifestyle.",
+        "buttons": [
+          "Learn More",
+          "Contact Us"
+        ],
+        "image": "https://images.pexels.com/photos/7031406/pexels-photo-7031406.jpeg?auto=compress&cs=tinysrgb&w=1080"
       },
       {
-        "title": "Develop Fast and Efficiently",
-        "text": "We provide professional design, programming, and digital transformation services for global businesses.",
-        "buttons": ["Our Services", "Meet the Team"],
-        "image": "https://picsum.photos/id/1025/1600/900"
+        "title": "Exterior Design Excellence",
+        "text": "Our team creates stunning outdoor spaces that complement architecture and landscape harmoniously.",
+        "buttons": [
+          "Our Services",
+          "Get a Quote"
+        ],
+        "image": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1080"
       },
       {
-        "title": "Innovate Together",
-        "text": "We believe technology has true value when it helps people create meaningful change every day.",
-        "buttons": ["Get in Touch", "View Projects"],
-        "image": "https://picsum.photos/id/1005/1600/900"
+        "title": "Custom Interior Solutions",
+        "text": "From modern to classic, we design interiors that perfectly match your taste and needs.",
+        "buttons": [
+          "View Projects",
+          "Consult Now"
+        ],
+        "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-4.0.3&w=1080"
+      },
+      {
+        "title": "Functional and Stylish",
+        "text": "We combine aesthetic beauty with practical solutions to maximize your space usage.",
+        "buttons": [
+          "Learn More",
+          "Contact Us"
+        ],
+        "image": "https://images.pexels.com/photos/1648776/pexels-photo-1648776.jpeg?auto=compress&cs=tinysrgb&w=1080"
+      },
+      {
+        "title": "Office Spaces That Inspire",
+        "text": "We create professional work environments that boost productivity and leave lasting impressions.",
+        "buttons": [
+          "Our Services",
+          "Meet the Team"
+        ],
+        "image": "https://images.pexels.com/photos/380768/pexels-photo-380768.jpeg?auto=compress&cs=tinysrgb&w=1080"
+      },
+      {
+        "title": "Renovation Made Easy",
+        "text": "From planning to execution, we handle renovations with precision and attention to detail.",
+        "buttons": [
+          "Get a Quote",
+          "Consult Now"
+        ],
+        "image": "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&w=1080"
+      },
+      {
+        "title": "Eco-Friendly Designs",
+        "text": "Sustainable materials and energy-efficient solutions are part of our design philosophy.",
+        "buttons": [
+          "Learn More",
+          "Contact Us"
+        ],
+        "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&w=1080"
+      },
+      {
+        "title": "Luxury Interior Concepts",
+        "text": "We design luxurious spaces that elevate comfort and style to the next level.",
+        "buttons": [
+          "View Projects",
+          "Meet the Team"
+        ],
+        "image": "https://images.pexels.com/photos/7031403/pexels-photo-7031403.jpeg?auto=compress&cs=tinysrgb&w=1080"
+      },
+      {
+        "title": "Seamless Outdoor Living",
+        "text": "From patios to gardens, we craft outdoor spaces perfect for relaxation and entertainment.",
+        "buttons": [
+          "Our Services",
+          "Get a Quote"
+        ],
+        "image": "https://images.pexels.com/photos/534151/pexels-photo-534151.jpeg?auto=compress&cs=tinysrgb&w=1080"
+      },
+      {
+        "title": "Your Vision, Our Expertise",
+        "text": "We collaborate closely with you to ensure every project reflects your unique vision and lifestyle.",
+        "buttons": [
+          "Consult Now",
+          "View Projects"
+        ],
+        "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?ixlib=rb-4.0.3&w=1080"
       }
     ]
   }
