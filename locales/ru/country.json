@@ -1,0 +1,70 @@
+{
+  "title": "Управление странами",
+  "subtitle": "Управление информацией и настройками стран",
+  "loading": "Загрузка стран...",
+  "error": "Ошибка",
+  "retry": "Повторить",
+  "totalCountries": "Всего стран",
+  "confirmed": "Подтверждено",
+  "noCountries": "Страны не найдены",
+  "addFirstCountry": "Добавьте первую страну, чтобы начать",
+  "phoneCode": "Телефонный код",
+  "currency": "Валюта",
+  "nationality": "Национальность",
+  "nameType": "Тип названия",
+  "adminLevels": "Административные уровни",
+  "edit": "Редактировать",
+  "viewDetails": "Подробности",
+  "delete": "Удалить",
+  "addCountry": "Добавить страну",
+  "status": {
+    "confirm": "Подтверждено",
+    "pending": "На рассмотрении",
+    "rejected": "Отклонено"
+  },
+  "filters": {
+    "all": "Все",
+    "confirmed": "Подтверждённые",
+    "pending": "На рассмотрении",
+    "search": "Поиск стран..."
+  },
+  "details": {
+    "isoCode": "Код ISO",
+    "isoAlpha2": "Alpha-2 код",
+    "phoneCode": "Телефонный код",
+    "currencyCode": "Код валюты",
+    "names": "Названия страны",
+    "nationalityNames": "Названия национальности",
+    "postalCode": "Формат почтового индекса",
+    "locationPostalCode": "Региональный почтовый индекс",
+    "createdAt": "Дата создания",
+    "updatedAt": "Дата обновления"
+  },
+  "levelTypes": {
+    "level1": "Уровень 1",
+    "level2": "Уровень 2",
+    "level3": "Уровень 3",
+    "level4": "Уровень 4",
+    "province": "Провинция/Город",
+    "district": "Район",
+    "ward": "Община/Посёлок",
+    "village": "Деревня/Хутор"
+  },
+  "messages": {
+    "loadSuccess": "Страны успешно загружены",
+    "loadError": "Ошибка загрузки стран",
+    "deleteSuccess": "Страна успешно удалена",
+    "deleteError": "Ошибка удаления страны",
+    "addSuccess": "Страна успешно добавлена",
+    "addError": "Ошибка добавления страны",
+    "updateSuccess": "Страна успешно обновлена",
+    "updateError": "Ошибка обновления страны"
+  },
+  "validation": {
+    "nameRequired": "Название страны обязательно",
+    "isoCodeRequired": "Код ISO обязателен",
+    "isoAlpha2Required": "Alpha-2 код обязателен",
+    "phoneCodeRequired": "Телефонный код обязателен",
+    "currencyCodeRequired": "Код валюты обязателен"
+  }
+}

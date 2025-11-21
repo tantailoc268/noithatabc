@@ -1,0 +1,10 @@
+{
+  "section_title": "Наша команда",
+  "footer": "Изображения от Freepik",
+  "members": [
+    { "name": "Алекс Смит", "role": "КРЕАТИВНЫЙ ДИРЕКТОР", "description": "Превращать видение клиентов в потрясающую реальность — моя главная страсть.", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "Мэй Браун", "role": "МЕНЕДЖЕР ПО ПРОДАЖАМ", "description": "Ставим потребности клиента на первое место и предлагаем лучшие решения.", "image": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "Анна Ричмонд", "role": "ВЕБ-РАЗРАБОТЧИК", "description": "Создаём быстрые, стабильные и безопасные системы на современных технологиях.", "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" },
+    { "name": "Рокси Суонсон", "role": "ВЕБ-ДИЗАЙНЕР", "description": "Добиваемся идеального баланса между красотой и удобством.", "image": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" }
+  ]
+}
