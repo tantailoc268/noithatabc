@@ -1,12 +1,37 @@
 {
-  "logo": "Logo",
-  "description": "Suspendisse hendrerit tellus laoreet luctus pharetra. Aliquam porttitor vitae orci nec ultricies.",
-  "copyright": "© 2014 BS3 UI Kit, All rights reserved.",
-  "menu": ["DU LỊCH", "THIÊN NHIÊN", "KHÁM PHÁ", "KHOA HỌC", "LỜI KHUYÊN"],
-  "about": ["Về chúng tôi", "Liên hệ", "Điều khoản", "Chính sách riêng tư"],
-  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
+  "logo": "ABC THIẾT KẾ NỘI THẤT",
+  "description": "Dịch vụ thiết kế nội thất & ngoại thất chuyên nghiệp từ 2016. Chuyển đổi không gian với sáng tạo và chất lượng.",
+  "copyright": "© 2016 Công ty TNHH Trang trí Nội thất ABC. Mọi quyền được bảo lưu.",
+  "menu_title": "DỊCH VỤ",
+  "about_title": "CÔNG TY",
+  "follow_title": "THEO DÕI",
   "newsletter_title": "BẢN TIN",
-  "newsletter_text": "Một chú robot mặc áo lông không làm chim cánh cụt thật sợ hãi",
-  "newsletter_placeholder": "Tìm kiếm...",
-  "newsletter_button": "Đăng ký"
+  "newsletter_text": "Nhận cảm hứng thiết kế mới nhất và ưu đãi",
+  "newsletter_placeholder": "Nhập email của bạn",
+  "newsletter_button": "Đăng ký",
+  "subscribed_message": "Cảm ơn bạn đã đăng ký!",
+  "loading_text": "Đang tải...",
+  "error_text": "Nội dung không khả dụng",
+  "no_menu_items": "Không có dịch vụ",
+  "no_about_items": "Không có thông tin công ty",
+  "no_social_links": "Không có liên kết mạng xã hội",
+  "menu": [
+    "THIẾT KẾ NỘI THẤT",
+    "THIẾT KẾ NGOẠI THẤT",
+    "THIẾT KẾ TÙY CHỈNH",
+    "QUẢN LÝ DỰ ÁN",
+    "TƯ VẤN"
+  ],
+  "about": [
+    "Về Chúng Tôi",
+    "Dự Án Của Chúng Tôi",
+    "Điều Khoản & Điều Kiện",
+    "Chính Sách Bảo Mật"
+  ],
+  "follow": [
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "YouTube"
+  ]
 }
