@@ -1,12 +1,37 @@
 {
-  "logo": "ロゴ",
-  "description": "私たちはお客様のビジネスをより良く、より速く、より強くするためのパートナーです。",
-  "copyright": "© 2014-2025 Goline Co., Ltd. All rights reserved.",
-  "menu": ["旅行", "自然", "探検", "科学", "アドバイス"],
-  "about": ["会社概要", "お問い合わせ", "利用規約", "プライバシーポリシー"],
-  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
+  "logo": "ABC インテリアデコレーション",
+  "description": "2016年からプロフェッショナルなインテリア・エクステリアデザインサービス。創造性と品質で空間を変えます。",
+  "copyright": "© 2016 ABCインテリアデコレーション株式会社。全著作権所有。",
+  "menu_title": "サービス",
+  "about_title": "会社情報",
+  "follow_title": "フォロー",
   "newsletter_title": "ニュースレター",
-  "newsletter_text": "最新情報やお得なキャンペーンをお届けします",
-  "newsletter_placeholder": "メールアドレスを入力...",
-  "newsletter_button": "登録する"
+  "newsletter_text": "最新のデザインインスピレーションとオファーを入手",
+  "newsletter_placeholder": "メールアドレスを入力",
+  "newsletter_button": "購読",
+  "subscribed_message": "ご登録ありがとうございます！",
+  "loading_text": "読み込み中...",
+  "error_text": "コンテンツが利用できません",
+  "no_menu_items": "サービスがありません",
+  "no_about_items": "会社情報がありません",
+  "no_social_links": "ソーシャルリンクがありません",
+  "menu": [
+    "インテリアデザイン",
+    "エクステリアデザイン",
+    "カスタムデザイン",
+    "プロジェクト管理",
+    "コンサルテーション"
+  ],
+  "about": [
+    "会社概要",
+    "私たちの実績",
+    "利用規約",
+    "プライバシーポリシー"
+  ],
+  "follow": [
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "YouTube"
+  ]
 }
