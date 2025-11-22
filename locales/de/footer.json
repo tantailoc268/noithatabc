@@ -1,12 +1,37 @@
 {
-  "logo": "Logo",
-  "description": "Wir helfen Unternehmen, besser, schneller und stärker zu werden – mit modernen digitalen Lösungen.",
-  "copyright": "© 2014-2025 Goline Co., Ltd. Alle Rechte vorbehalten.",
-  "menu": ["Reisen", "Natur", "Entdecken", "Wissenschaft", "Tipps"],
-  "about": ["Über uns", "Kontakt", "Nutzungsbedingungen", "Datenschutz"],
-  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
+  "logo": "ABC INNENARCHITEKTUR",
+  "description": "Professionelle Innen- und Außendesign-Dienstleistungen seit 2016. Räume mit Kreativität und Qualität verwandeln.",
+  "copyright": "© 2016 ABC Innenarchitektur GmbH. Alle Rechte vorbehalten.",
+  "menu_title": "UNSERE DIENSTLEISTUNGEN",
+  "about_title": "UNTERNEHMEN",
+  "follow_title": "FOLGEN SIE UNS",
   "newsletter_title": "NEWSLETTER",
-  "newsletter_text": "Erhalten Sie als Erster die neuesten Infos und exklusiven Angebote",
-  "newsletter_placeholder": "Ihre E-Mail-Adresse...",
-  "newsletter_button": "Abonnieren"
+  "newsletter_text": "Erhalten Sie die neuesten Design-Inspirationen und Angebote",
+  "newsletter_placeholder": "Geben Sie Ihre E-Mail ein",
+  "newsletter_button": "Abonnieren",
+  "subscribed_message": "Vielen Dank für Ihr Abonnement!",
+  "loading_text": "Laden...",
+  "error_text": "Inhalt nicht verfügbar",
+  "no_menu_items": "Keine Dienstleistungen",
+  "no_about_items": "Keine Unternehmensinformationen",
+  "no_social_links": "Keine Social-Media-Links",
+  "menu": [
+    "INNENARCHITEKTUR",
+    "AUSSENARCHITEKTUR",
+    "INDIVIDUELLES DESIGN",
+    "PROJEKTMANAGEMENT",
+    "BERATUNG"
+  ],
+  "about": [
+    "Über uns",
+    "Unser Portfolio",
+    "Allgemeine Geschäftsbedingungen",
+    "Datenschutzrichtlinie"
+  ],
+  "follow": [
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "YouTube"
+  ]
 }
