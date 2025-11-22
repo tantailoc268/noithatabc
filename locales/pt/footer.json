@@ -1,12 +1,37 @@
 {
-  "logo": "Logo",
-  "description": "Ajudamos empresas a serem melhores, mais rápidas e mais fortes com soluções digitais modernas.",
-  "copyright": "© 2014-2025 Goline Co., Ltd. Todos os direitos reservados.",
-  "menu": ["Viagens", "Natureza", "Exploração", "Ciência", "Dicas"],
-  "about": ["Sobre nós", "Contato", "Termos de uso", "Política de privacidade"],
-  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
+  "logo": "ABC DECORAÇÃO DE INTERIORES",
+  "description": "Serviços profissionais de design interior e exterior desde 2016. Transformando espaços com criatividade e qualidade.",
+  "copyright": "© 2016 ABC Decoração de Interiores Ltda. Todos os direitos reservados.",
+  "menu_title": "NOSSOS SERVIÇOS",
+  "about_title": "EMPRESA",
+  "follow_title": "SIGA-NOS",
   "newsletter_title": "NEWSLETTER",
-  "newsletter_text": "Receba em primeira mão as últimas novidades e ofertas exclusivas",
-  "newsletter_placeholder": "Digite seu e-mail...",
-  "newsletter_button": "Inscrever-se"
+  "newsletter_text": "Receba as últimas inspirações de design e ofertas",
+  "newsletter_placeholder": "Digite seu email",
+  "newsletter_button": "Inscrever-se",
+  "subscribed_message": "Obrigado por se inscrever!",
+  "loading_text": "Carregando...",
+  "error_text": "Conteúdo não disponível",
+  "no_menu_items": "Sem serviços",
+  "no_about_items": "Sem informações da empresa",
+  "no_social_links": "Sem links sociais",
+  "menu": [
+    "DESIGN DE INTERIORES",
+    "DESIGN DE EXTERIORES",
+    "DESIGN PERSONALIZADO",
+    "GERENCIAMENTO DE PROJETOS",
+    "CONSULTORIA"
+  ],
+  "about": [
+    "Sobre nós",
+    "Nosso portfólio",
+    "Termos e condições",
+    "Política de privacidade"
+  ],
+  "follow": [
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "YouTube"
+  ]
 }
