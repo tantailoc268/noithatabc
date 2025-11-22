@@ -1,12 +1,37 @@
 {
-  "logo": "로고",
-  "description": "고객의 비즈니스를 더 좋고, 빠르고, 강하게 만들어 드리는 파트너입니다.",
-  "copyright": "© 2014-2025 Goline Co., Ltd. 모든 권리 보유.",
-  "menu": ["여행", "자연", "탐험", "과학", "팁"],
-  "about": ["회사소개", "연락처", "이용약관", "개인정보처리방침"],
-  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
-  "newsletter_title": "뉴스레터 구독",
-  "newsletter_text": "최신 소식과 특별 혜택을 가장 먼저 받아보세요",
-  "newsletter_placeholder": "이메일 주소를 입력하세요...",
-  "newsletter_button": "구독하기"
+  "logo": "ABC 인테리어 디자인",
+  "description": "2016년부터 전문적인 실내외 디자인 서비스. 창의성과 품질로 공간을 변화시킵니다.",
+  "copyright": "© 2016 ABC 인테리어 디자인 주식회사. 모든 권리 보유.",
+  "menu_title": "서비스",
+  "about_title": "회사 정보",
+  "follow_title": "팔로우",
+  "newsletter_title": "뉴스레터",
+  "newsletter_text": "최신 디자인 영감과 혜택 받기",
+  "newsletter_placeholder": "이메일 입력",
+  "newsletter_button": "구독",
+  "subscribed_message": "구독해 주셔서 감사합니다!",
+  "loading_text": "로딩 중...",
+  "error_text": "콘텐츠를 사용할 수 없습니다",
+  "no_menu_items": "서비스가 없습니다",
+  "no_about_items": "회사 정보가 없습니다",
+  "no_social_links": "소셜 링크가 없습니다",
+  "menu": [
+    "실내 디자인",
+    "외부 디자인",
+    "맞춤 디자인",
+    "프로젝트 관리",
+    "컨설팅"
+  ],
+  "about": [
+    "회사 소개",
+    "우리의 포트폴리오",
+    "이용약관",
+    "개인정보처리방침"
+  ],
+  "follow": [
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "YouTube"
+  ]
 }
