@@ -1,12 +1,37 @@
 {
-  "logo": "Logo",
-  "description": "我們致力於為客戶提供更優質、更快速、更強大的商業解決方案。",
-  "copyright": "© 2014-2025 Goline Co., Ltd. 著作權所有。",
-  "menu": ["旅遊", "自然", "探索", "科學", "建議"],
-  "about": ["關於我們", "聯絡我們", "服務條款", "隱私權政策"],
-  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
-  "newsletter_title": "電子報訂閱",
-  "newsletter_text": "訂閱即可第一時間收到最新消息與優惠活動",
-  "newsletter_placeholder": "請輸入電子郵件...",
-  "newsletter_button": "訂閱"
+  "logo": "ABC 室內裝飾",
+  "description": "自2016年起提供專業室內外設計服務。用創意和品質改造空間。",
+  "copyright": "© 2016 ABC室內裝飾有限公司。保留所有權利。",
+  "menu_title": "我們的服務",
+  "about_title": "公司資訊",
+  "follow_title": "關注我們",
+  "newsletter_title": "電子報",
+  "newsletter_text": "獲取最新設計靈感和優惠",
+  "newsletter_placeholder": "輸入您的郵箱",
+  "newsletter_button": "訂閱",
+  "subscribed_message": "感謝您的訂閱！",
+  "loading_text": "載入中...",
+  "error_text": "內容不可用",
+  "no_menu_items": "無服務項目",
+  "no_about_items": "無公司資訊",
+  "no_social_links": "無社交連結",
+  "menu": [
+    "室內設計",
+    "室外設計",
+    "客製化設計",
+    "專案管理",
+    "諮詢服務"
+  ],
+  "about": [
+    "關於我們",
+    "我們的作品集",
+    "條款與條件",
+    "隱私政策"
+  ],
+  "follow": [
+    "Facebook",
+    "Instagram",
+    "Pinterest",
+    "YouTube"
+  ]
 }
