@@ -1,12 +1,37 @@
 {
-  "logo": "Logo",
-  "description": "Suspendisse hendrerit tellus laoreet luctus pharetra. Aliquam porttitor vitae orci nec ultricies.",
-  "copyright": "© 2014 BS3 UI Kit, All rights reserved.",
-  "menu": ["TRAVEL", "NATURE", "EXPLORES", "SCIENCE", "ADVICE"],
-  "about": ["About Us", "Contacts", "Terms & Condition", "Privacy Policy"],
-  "follow": ["Facebook", "Twitter", "Instagram", "RSS"],
+  "logo": "ABC INTERIOR DECORATION",
+  "description": "Professional interior & exterior design services since 2016. Transforming spaces with creativity and quality execution.",
+  "copyright": "© 2016 ABC Interior Decoration Co., Ltd. All rights reserved.",
+  "menu_title": "OUR SERVICES",
+  "about_title": "COMPANY", 
+  "follow_title": "FOLLOW US",
   "newsletter_title": "NEWSLETTER",
-  "newsletter_text": "A rover wearing a fuzzy suit doesn't alarm the real penguins",
-  "newsletter_placeholder": "Search for...",
-  "newsletter_button": "Envelope"
+  "newsletter_text": "Get latest design inspiration and offers",
+  "newsletter_placeholder": "Enter your email", 
+  "newsletter_button": "Subscribe",
+  "subscribed_message": "Thank you for subscribing!",
+  "loading_text": "Loading footer...",
+  "error_text": "Footer content not available",
+  "no_menu_items": "No service items",
+  "no_about_items": "No company items", 
+  "no_social_links": "No social links",
+  "menu": [
+    "INTERIOR DESIGN",
+    "EXTERIOR DESIGN", 
+    "CUSTOM DESIGN",
+    "PROJECT MANAGEMENT",
+    "CONSULTATION"
+  ],
+  "about": [
+    "About Us",
+    "Our Portfolio", 
+    "Terms & Condition",
+    "Privacy Policy"
+  ],
+  "follow": [
+    "Facebook",
+    "Instagram",
+    "Pinterest", 
+    "YouTube"
+  ]
 }
